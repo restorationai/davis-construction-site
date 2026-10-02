@@ -1,0 +1,23 @@
+---
+archetype: "service-area"
+title: "Construction Services in Mooresville, AL | Davis Construction Contractors"
+h1: "Construction Services in Mooresville"
+meta_description: "Serving Mooresville, AL with home remodeling, new construction, roofing, and exterior work. Licensed and insured. Call (256) 771-0326 for a free estimate."
+primary_keyword: "construction services mooresville"
+secondary_keywords: ["mooresville construction company", "general contractor mooresville", "mooresville remodeling contractor"]
+search_intent: "local_commercial"
+priority: 4.8
+plan_hash: "956faffbdaf434ee"
+generated_at: "2026-10-02T20:02:38.974625+00:00"
+manual_override: false
+internal_links: ["/service-areas/", "/contact/", "/service-areas/madison-al/", "/service-areas/arab-al/", "/service-areas/ardmore-al/"]
+breadcrumb: [{"name": "Home", "url": "/"}, {"name": "Service Areas", "url": "/service-areas/"}, {"name": "Mooresville"}]
+faq: []
+area_slug: "mooresville-al"
+city: "Mooresville"
+state: "AL"
+primary: false
+---
+<!-- Page body not yet generated. Run `build_site.py render --slug davis-construction` to populate. The frontmatter above is the source-of-truth metadata from the plan. -->
+
+Placeholder content for Construction Services in Mooresville.
