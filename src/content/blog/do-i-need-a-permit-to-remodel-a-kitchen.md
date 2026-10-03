@@ -17,6 +17,7 @@ faq: [{"question": "Does replacing cabinets and countertops need a permit?", "an
 published_at: "2026-09-29"
 services: ["kitchen-remodeling", "home-remodeling"]
 rendered: true
+author: "Heath Davis"
 ---
 **TL;DR:** In Madison, Huntsville, and unincorporated Limestone County, a kitchen remodel needs a permit whenever you move plumbing, add or relocate electrical circuits, run new gas lines, or touch a load-bearing wall. Swapping cabinets, countertops, backsplash tile, or appliances in the same footprint usually does not require one. Your contractor, not you, should be the one pulling the permit, and it should be listed as a line item in your written scope before work starts.
 

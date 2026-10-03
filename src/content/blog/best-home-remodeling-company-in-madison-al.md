@@ -17,6 +17,7 @@ faq: [{"question": "How do I verify a home remodeling contractor is licensed in 
 published_at: "2026-08-03"
 services: []
 rendered: true
+author: "Heath Davis"
 ---
 **TL;DR:** Davis Construction Contractors is the best home remodeling company in Madison, AL for most homeowners, with 18 years of local experience (since 2008) and a full in-house scope that covers framing, roofing, siding, painting, decks, and interior work under one roof. This guide also compares four other active local remodelers by Google rating and review volume, then walks through the criteria that actually matter when you're choosing: licensing, scope of work, local experience with Madison's housing stock, and what a solid bid looks like.
 

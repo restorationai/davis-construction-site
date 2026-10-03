@@ -17,6 +17,7 @@ faq: [{"question": "What is the license threshold for general contractors in Ala
 published_at: "2026-07-27"
 services: ["home-remodeling", "new-construction"]
 rendered: true
+author: "Heath Davis"
 ---
 **TL;DR:** In Alabama, general contractors must be licensed by the state for any project valued at $50,000 or more. Residential builders have a separate license through the Home Builders Licensure Board. Hiring an unlicensed contractor on a qualifying project can void your homeowner's insurance coverage, expose you to mechanic's liens from unpaid subcontractors, and leave you with no legal recourse if the work fails. Verification takes about two minutes on the state's public license lookup tool.
 

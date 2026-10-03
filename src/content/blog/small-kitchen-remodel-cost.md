@@ -17,6 +17,7 @@ faq: [{"question": "How much does a 10x10 kitchen remodel cost in Athens, AL?", 
 published_at: "2026-09-23"
 services: ["kitchen-remodeling", "home-remodeling"]
 rendered: true
+author: "Heath Davis"
 ---
 **TL;DR:** A small kitchen remodel in Athens, AL runs $8,000-$15,000 for a mid-range refresh and $18,000-$28,000 for a full gut remodel with new cabinets, countertops, appliances, and flooring. The galley kitchens common in Athens's 1950s-1970s brick ranch homes are typically 80-120 square feet, which keeps labor hours manageable but limits your layout options. Where you spend matters more than total square footage.
 

@@ -17,6 +17,7 @@ faq: [{"question": "Do minor kitchen updates really return more value than a ful
 published_at: "2026-10-01"
 services: ["kitchen-remodeling", "home-remodeling"]
 rendered: true
+author: "Heath Davis"
 ---
 **TL;DR:** A kitchen remodel generally adds real resale value, but the amount depends heavily on scope. National cost-value research tracked by groups like the [National Association of Home Builders](https://www.nahb.org/) consistently shows minor kitchen updates (new cabinet fronts, countertops, hardware, paint) recoup a much higher share of their cost than a full gut-and-rebuild. In Huntsville and Madison, where Redstone Arsenal and aerospace job transfers keep buyer demand steady, a well-executed mid-range kitchen update tends to be the sweet spot for value.
 

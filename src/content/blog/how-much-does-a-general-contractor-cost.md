@@ -17,6 +17,7 @@ faq: [{"question": "What percentage does a general contractor charge in Alabama?
 published_at: "2026-07-20"
 services: ["home-remodeling", "new-construction"]
 rendered: true
+author: "Heath Davis"
 ---
 **TL;DR:** General contractors in Alabama typically charge between 10% and 20% of total project cost, depending on project size, contract type, and complexity. On a $60,000 kitchen remodel, that's $6,000–$12,000 in GC fees. Smaller projects trend toward the higher end of that range; large custom builds can dip below 10%. The fee covers project management, subcontractor coordination, permits, scheduling, and warranty, not just a signature on a contract.
 

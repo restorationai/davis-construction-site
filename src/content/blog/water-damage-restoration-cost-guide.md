@@ -17,6 +17,7 @@ faq: [{"question": "What is the average cost of water damage restoration per squ
 published_at: "2026-05-30"
 services: ["water-damage-restoration"]
 rendered: true
+author: "Heath Davis"
 ---
 You're standing in a wet room and trying to figure out whether to file a claim or pay out of pocket. The answer depends on a number that nobody seems to want to give you straight. Here it is: most residential water damage restoration jobs in North Alabama run between $1,200 and $8,500, with the national average landing around $3,500. The spread is wide because the actual cost depends on four things that vary dramatically from job to job: the category of water involved, the square footage affected, which materials got wet, and how long the drying process takes. This guide breaks down each driver so you can estimate your situation before anyone shows up with equipment.
 

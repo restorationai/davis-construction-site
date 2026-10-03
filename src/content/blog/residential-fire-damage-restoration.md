@@ -17,6 +17,7 @@ faq: [{"question": "How soon after a house fire should I call a restoration cont
 published_at: "2026-06-22"
 services: ["fire-damage-restoration", "storm-damage-restoration"]
 rendered: true
+author: "Heath Davis"
 ---
 **TL;DR:** Residential fire damage restoration covers everything from emergency board-up and soot removal to full structural reconstruction. In Madison and Huntsville, AL, the process typically runs 2-8 weeks depending on how much of the home was affected. The sooner a licensed contractor documents the damage and secures the structure, the stronger your insurance claim and the lower your total repair cost.
 

@@ -17,6 +17,7 @@ breadcrumb: [{"name": "Home", "url": "/"}, {"name": "Blog", "url": "/blog/"}, {"
 faq: []
 published_at: "2026-09-28"
 services: ["storm-damage-restoration", "roofing"]
+author: "Heath Davis"
 ---
 <!-- Page body not yet generated. Run `build_site.py render --slug davis-construction` to populate. The frontmatter above is the source-of-truth metadata from the plan. -->
 

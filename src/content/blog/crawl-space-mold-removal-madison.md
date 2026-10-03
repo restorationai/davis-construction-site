@@ -17,6 +17,7 @@ faq: [{"question": "How do I know if I have mold in my crawl space without going
 published_at: "2026-07-13"
 services: ["mold-remediation"]
 rendered: true
+author: "Heath Davis"
 ---
 **TL;DR:** Crawl space mold in Madison, AL is driven by the region's hot, humid summers pushing moisture-laden air into vented crawl spaces under your home. Removal typically costs $1,500–$6,000 depending on the affected area, and encapsulation is the most reliable way to prevent recurrence. Left untreated, crawl space mold spreads to floor joists, subfloor sheathing, and eventually affects indoor air quality throughout the house.
 

@@ -16,6 +16,7 @@ faq: [{"question": "How do I know if a restoration contractor is properly licens
 published_at: "2026-05-21"
 services: ["water-damage-restoration", "fire-damage-restoration", "mold-remediation"]
 rendered: true
+author: "Heath Davis"
 ---
 Most homeowners don't think about restoration companies until water is soaking through the ceiling or smoke smell won't leave the walls. Then suddenly you're making a high-stakes hiring decision while you're stressed, possibly displaced, and fielding calls from an insurance adjuster. Here's the short answer: vet the company before you sign anything, confirm their certifications are current, and never let a contractor pressure you into a same-day contract. The sections below walk you through exactly how to do that, and what red flags to watch for at every step.
 

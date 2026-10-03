@@ -16,6 +16,7 @@ faq: [{"question": "How long do I have to file a storm damage insurance claim in
 published_at: "2026-05-21"
 services: ["storm-damage-restoration"]
 rendered: true
+author: "Heath Davis"
 ---
 Before you dial your insurance company after a storm, stop for 20 minutes and work through this checklist first. Adjusters move fast, initial estimates get locked in, and anything you miss in that first conversation can slow your claim, or reduce your payout. This guide walks you through exactly what to document, what to say, and what to hold off on until a professional has eyes on the damage. Whether a tornado clipped your roof, hail punched through your siding, or a downed tree crushed your fence, the steps are the same.
 

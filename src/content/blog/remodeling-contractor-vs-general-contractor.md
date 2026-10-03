@@ -17,6 +17,7 @@ faq: [{"question": "Is a remodeling contractor the same as a general contractor?
 published_at: "2026-08-31"
 services: ["home-remodeling", "general-contracting"]
 rendered: true
+author: "Heath Davis"
 ---
 **TL;DR:** A remodeling contractor focuses specifically on renovating existing homes: kitchens, bathrooms, additions, and whole-home updates. A general contractor manages any construction project, including new builds, commercial work, and major structural changes. In practice, many contractors do both. The right choice depends on what your project actually involves, not just what title is on a business card.
 

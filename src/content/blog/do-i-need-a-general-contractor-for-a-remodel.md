@@ -17,6 +17,7 @@ faq: [{"question": "Do I need a general contractor for a kitchen remodel?", "ans
 published_at: "2026-07-30"
 services: ["home-remodeling", "new-construction"]
 rendered: true
+author: "Heath Davis"
 ---
 **TL;DR:** You need a general contractor when your remodel touches more than one trade, requires permits, or involves structural work. A single-trade job, painting a room, replacing a water heater, installing flooring, usually doesn't need a GC. But a kitchen gut, a bathroom addition, or anything that moves walls almost always does. The GC's job is to coordinate permits, schedule subcontractors in the right order, manage inspections, and be the single accountable party if something goes wrong.
 

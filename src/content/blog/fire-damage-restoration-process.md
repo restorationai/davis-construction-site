@@ -17,6 +17,7 @@ faq: [{"question": "Does firefighting water always cause mold after a fire?", "a
 published_at: "2026-06-11"
 services: ["fire-damage-restoration", "storm-damage-restoration", "mold-remediation"]
 rendered: true
+author: "Heath Davis"
 ---
 The fire department has cleared the scene. The trucks are gone. You're standing in front of a home that may look structurally intact from the street but has soot coating every interior surface, firefighting water soaking the subfloor, and smoke odor embedded in the framing. What happens next isn't random, there's a defined sequence that every competent restoration contractor follows, and understanding it helps you ask the right questions, set realistic timelines, and avoid costly mistakes during the insurance claim process.
 

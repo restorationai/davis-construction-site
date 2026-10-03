@@ -18,6 +18,7 @@ faq: [{"question": "Is it cheaper to reface cabinets instead of replacing them?"
 published_at: "2026-09-06"
 services: ["kitchen-remodeling", "home-remodeling"]
 rendered: true
+author: "Heath Davis"
 ---
 ## What a Kitchen Remodel Actually Costs
 

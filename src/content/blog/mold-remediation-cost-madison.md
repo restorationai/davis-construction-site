@@ -17,6 +17,7 @@ faq: [{"question": "How much does mold remediation cost in Madison, AL?", "answe
 published_at: "2026-06-29"
 services: ["mold-remediation"]
 rendered: true
+author: "Heath Davis"
 ---
 **TL;DR:** Mold remediation in Madison, AL costs between $1,500 and $6,000 for most residential jobs. Small surface mold in a bathroom or laundry room runs $500–$1,500. Attic mold, crawl space mold, or widespread growth behind drywall pushes into the $3,000–$8,000+ range. North Alabama's hot, humid summers create conditions where mold spreads faster than in drier climates, so the square footage involved and how deep the growth has penetrated are the two biggest cost drivers.
 

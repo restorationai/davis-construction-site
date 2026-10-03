@@ -16,6 +16,7 @@ faq: [{"question": "Can I just run fans and dehumidifiers from the hardware stor
 published_at: "2026-05-21"
 services: ["water-damage-restoration"]
 rendered: true
+author: "Heath Davis"
 ---
 Most water damage restoration takes **3 to 5 days for drying alone**, but the full process, from emergency extraction through final repairs, commonly runs **1 to 3 weeks** depending on how much water got in, how long it sat, and what materials it touched. If drywall, subfloor, or insulation absorbed moisture, you're looking at the longer end of that range. The timeline isn't arbitrary; it's driven by physics. Wet structural materials have to reach a specific moisture content before reconstruction can begin, and rushing that step leads to mold, warped floors, and callbacks.
 

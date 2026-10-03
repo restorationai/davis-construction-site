@@ -16,6 +16,7 @@ faq: [{"question": "How much does it cost to waterproof a basement in Alabama?",
 published_at: "2026-05-21"
 services: ["water-damage-restoration"]
 rendered: true
+author: "Heath Davis"
 ---
 Most basement flooding is preventable, and the fixes are less expensive than you'd think. Whether you're dealing with North Alabama's spring downpours, the clay-heavy soils around Madison that hold water against your foundation, or a sump pump that's been sitting idle since last year, the steps below will help you stay dry this season. Work through them before the next storm rolls in off the Tennessee Valley, not after.
 

@@ -17,6 +17,7 @@ faq: [{"question": "Can I stay in my house after a small kitchen fire?", "answer
 published_at: "2026-06-04"
 services: ["fire-damage-restoration", "storm-damage-restoration"]
 rendered: true
+author: "Heath Davis"
 ---
 The fire is out, the trucks are gone, and you're standing in front of your home trying to figure out what happens next. The next 24 to 48 hours will shape your insurance claim, your family's safety, and how quickly your home gets back to livable. Here is a clear, step-by-step breakdown of what to do, in order, starting right now.
 

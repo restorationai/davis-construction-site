@@ -18,6 +18,7 @@ faq: [{"question": "Can a roof be replaced in one day?", "answer": "Yes, for an 
 published_at: "2026-09-28"
 services: ["roofing"]
 rendered: true
+author: "Heath Davis"
 ---
 A typical residential roof replacement takes one to three days once the crew starts tear-off, with most standard asphalt shingle roofs in the 1,800 to 2,800 square foot range wrapping up in a single day. Larger homes, steep or complex rooflines, multiple layers of old shingles, or a switch to a different material like metal or architectural shingles can stretch the job to two or three days. That's the on-site work. The full timeline, from your first call to the last nail, usually runs anywhere from a few days to a few weeks once you factor in the estimate, material ordering, permitting, and weather windows.
 

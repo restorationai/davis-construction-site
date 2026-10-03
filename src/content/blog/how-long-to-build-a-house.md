@@ -18,6 +18,7 @@ faq: [{"question": "Does the size of the house change the timeline that much?", 
 published_at: "2026-09-18"
 services: ["new-construction"]
 rendered: true
+author: "Heath Davis"
 ---
 Most custom-built homes take between 7 and 12 months from the day permits are issued to the day you get your keys. That range stretches depending on square footage, how complicated the design is, and how many decisions you still need to make once the project starts. Add another 1 to 3 months before that for design, permitting, and site prep, and the realistic span from "let's build a house" to "let's move in" is closer to 10 to 15 months for most families. Production-style homes built from a standard plan on a prepped lot can move faster. A highly custom home on a difficult lot, slower.
 

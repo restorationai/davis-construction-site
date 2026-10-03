@@ -18,6 +18,7 @@ faq: [{"question": "Which roofing material holds up best against hail?", "answer
 published_at: "2026-09-25"
 services: ["roofing"]
 rendered: true
+author: "Heath Davis"
 ---
 If you're replacing a roof in Madison, the short answer is this: asphalt shingles are the budget-friendly default and work fine for most homes, metal roofing earns its higher price tag through longevity and storm resistance, and tile is a durable but heavy option that only makes sense on homes built to carry the weight. The right choice depends less on which material is "best" and more on how long you plan to stay in the house, what your roof structure can support, and how much upfront cost you're willing to trade for lower long-term maintenance.
 

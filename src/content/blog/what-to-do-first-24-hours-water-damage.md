@@ -16,6 +16,7 @@ faq: [{"question": "How long does water damage have to sit before mold starts gr
 published_at: "2026-05-21"
 services: ["water-damage-restoration"]
 rendered: true
+author: "Heath Davis"
 ---
 If water just flooded part of your home, here's the short version: shut off the water source, cut power to affected areas, get the water out as fast as possible, and start documenting everything for your insurance claim. Every hour you wait, water is moving deeper into subfloor, wall cavities, and insulation, and mold can begin colonizing porous materials in as little as 24 to 48 hours. The steps below walk you through exactly what to do, in order, from the moment you discover the damage.
 

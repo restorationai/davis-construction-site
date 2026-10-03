@@ -16,6 +16,7 @@ faq: [{"question": "Does commercial property insurance typically cover water dam
 published_at: "2026-05-21"
 services: ["commercial-restoration", "water-damage-restoration"]
 rendered: true
+author: "Heath Davis"
 ---
 A burst pipe, a failed roof drain, a sprinkler system malfunction, commercial water damage can shut down your operation in hours. If you're dealing with an active loss right now, stop the water source first: locate the main shutoff valve or call your building's facilities manager immediately. Then get people away from standing water, cut power to affected circuits if it's safe to do so, and call a licensed restoration contractor. The faster water is extracted, the narrower the window for secondary damage, and the better your chances of keeping your business running through the recovery.
 

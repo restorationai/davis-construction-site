@@ -18,6 +18,7 @@ published_at: "2026-09-17"
 updated_at: "2026-10-03"
 services: []
 rendered: true
+author: "Heath Davis"
 ---
 **TL;DR:** Home remodeling in Madison, AL typically runs $15,000 to $80,000 depending on scope, with kitchen and bathroom renovations on the lower end and full additions or whole-home remodels at the top. Local factors like HOA approval requirements, Madison City permitting timelines, and North Alabama's humidity all affect project planning. Getting a written scope and a realistic schedule before you sign anything is the single best thing you can do.
 

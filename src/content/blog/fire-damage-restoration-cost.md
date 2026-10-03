@@ -17,6 +17,7 @@ faq: [{"question": "How much does soot removal cost per room?", "answer": "Soot 
 published_at: "2026-06-15"
 services: ["fire-damage-restoration", "storm-damage-restoration"]
 rendered: true
+author: "Heath Davis"
 ---
 If you're standing in a smoke-damaged home trying to figure out whether to file an insurance claim or pay out of pocket, you need real numbers, not a range so wide it's useless. The honest answer: residential fire damage restoration in Alabama typically runs between $3,000 and $75,000, with most single-room incidents landing in the $8,000 to $25,000 range. What pushes your job toward either end of that range comes down to five specific factors, and understanding them before you talk to a contractor will help you evaluate every estimate you receive.
 

@@ -17,6 +17,7 @@ faq: [{"question": "How long does a kitchen remodel take from start to finish?",
 published_at: "2026-08-26"
 services: ["home-remodeling", "kitchen-remodeling", "bathroom-remodeling"]
 rendered: true
+author: "Heath Davis"
 ---
 **TL;DR:** A bathroom remodel typically takes 3-6 weeks once work starts. A kitchen remodel runs 6-12 weeks. A whole-house renovation or home addition can take 4-9 months. But the clock doesn't start on demo day, design, permitting, and material lead times add 4-12 weeks before a single wall comes down. Plan for the full timeline, not just the construction phase.
 

@@ -17,6 +17,7 @@ faq: [{"question": "How much does a kitchen remodel cost in Alabama in 2026?", "
 published_at: "2026-08-10"
 services: ["home-remodeling", "kitchen-remodeling", "bathroom-remodeling"]
 rendered: true
+author: "Heath Davis"
 ---
 **TL;DR:** Home remodel costs in North Alabama range from about $8,000 for a basic bathroom update to $150,000+ for a whole-home renovation. Kitchen remodels typically land between $18,000 and $55,000. Bathroom remodels run $8,000–$28,000. Whole-home renovations average $80–$150 per square foot depending on scope and finish level. Room additions start around $120 per square foot for conditioned space. Material costs, permit fees, and the age of your home's systems all move the number significantly.
 

@@ -17,6 +17,7 @@ faq: [{"question": "What is the first step in planning a home remodel?", "answer
 published_at: "2026-09-03"
 services: ["home-remodeling", "kitchen-remodeling", "bathroom-remodeling"]
 rendered: true
+author: "Heath Davis"
 ---
 **TL;DR:** Planning a home remodel well before breaking ground saves money, prevents delays, and reduces stress. Start with a clear scope and realistic budget, get your design locked in before hiring anyone, pull the permits your jurisdiction requires, vet contractors carefully, and build a timeline with buffer for the unexpected. Most successful remodels follow these five steps in order, not all at once.
 

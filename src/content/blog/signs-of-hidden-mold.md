@@ -16,6 +16,7 @@ faq: [{"question": "How do I know if mold is behind my drywall without cutting i
 published_at: "2026-05-21"
 services: ["mold-remediation"]
 rendered: true
+author: "Heath Davis"
 ---
 Hidden mold doesn't announce itself with a visible black patch on the wall. More often it grows inside wall cavities, beneath flooring, above ceiling tiles, or inside HVAC ducts, places you'd never look unless something tipped you off. If you've had a slow leak, a humid summer, or a musty smell you can't locate, read through the seven signs below. Any one of them is worth investigating. More than two together means you should act now, because mold can begin colonizing a damp surface in as little as 24–48 hours and spreads quickly once established.
 

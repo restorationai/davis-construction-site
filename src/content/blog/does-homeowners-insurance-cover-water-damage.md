@@ -16,6 +16,7 @@ faq: [{"question": "Does homeowners insurance cover mold that resulted from a wa
 published_at: "2026-05-21"
 services: ["water-damage-restoration"]
 rendered: true
+author: "Heath Davis"
 ---
 Homeowners insurance **usually covers water damage, but only under specific conditions**. The short answer: sudden, accidental water damage (a burst pipe, an appliance that fails overnight, a roof leak from a storm) is typically covered. Gradual damage (a slow drip under the sink that's been going on for months, a seeping foundation, general flooding from outside your home) almost never is. The distinction that matters most to your adjuster isn't *how much* water there is, it's *where it came from* and *how fast it arrived*.
 

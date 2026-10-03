@@ -17,6 +17,7 @@ faq: [{"question": "How much does a 10x10 kitchen remodel cost in Madison, AL?",
 published_at: "2026-09-19"
 services: ["kitchen-remodeling", "home-remodeling"]
 rendered: true
+author: "Heath Davis"
 ---
 **TL;DR:** A kitchen remodel in Madison, AL costs roughly $8,000-$15,000 for a cosmetic refresh, $20,000-$40,000 for a mid-range gut-and-replace, and $45,000-$80,000+ for a full high-end renovation. A standard 10x10 kitchen runs $15,000-$35,000 mid-range. These numbers reflect North Alabama labor rates and current material pricing, not national averages that often run 20-30% higher than what contractors here actually charge.
 

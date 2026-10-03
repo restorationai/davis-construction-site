@@ -16,6 +16,7 @@ faq: [{"question": "Are restoration industry standards like the S500 required by
 published_at: "2026-05-21"
 services: ["water-damage-restoration", "mold-remediation", "fire-damage-restoration"]
 rendered: true
+author: "Heath Davis"
 ---
 Restoration work, water damage, mold remediation, fire and smoke cleanup, isn't improvised by good companies. It's governed by published industry standards: documents like the S500 (water damage), S520 (mold remediation), and the S700 series (fire and smoke) that define how a loss should be scoped, performed, and documented. They aren't guidelines a company writes for itself; they're developed by committees of restoration professionals, industrial hygienists, and insurance industry representatives, then revised on a regular cycle. If you're trying to decide who to hire after a loss, asking whether a contractor works to these standards, and can document it, is one of the fastest ways to filter out crews that learned by guessing from those who can prove they know the science behind drying a structure or containing mold.
 

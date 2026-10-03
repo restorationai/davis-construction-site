@@ -17,6 +17,7 @@ faq: [{"question": "Does a general contractor in Alabama need to be licensed?", 
 published_at: "2026-07-23"
 services: ["home-remodeling", "new-construction"]
 rendered: true
+author: "Heath Davis"
 ---
 **TL;DR:** Choosing a general contractor comes down to five things: verified license and insurance, a portfolio of comparable work, at least three competitive bids, a written contract with a clear payment schedule, and direct answers to a short list of questions. Skip any one of these and you're taking on risk that's hard to undo once work starts.
 

@@ -17,6 +17,7 @@ faq: [{"question": "What causes mold to grow in an attic?", "answer": "Attic mol
 published_at: "2026-07-09"
 services: ["mold-remediation", "roofing"]
 rendered: true
+author: "Heath Davis"
 ---
 **TL;DR:** Attic mold in Athens, AL typically develops when warm, humid air gets trapped in an under-ventilated attic or when a roof leak introduces standing moisture. Professional removal runs $1,500–$6,000 depending on the affected area and the materials involved. Left alone, mold spreads to sheathing and rafters, eventually compromising structural wood. The fix requires treating the mold, correcting the moisture source, and improving airflow, in that order.
 

@@ -18,6 +18,7 @@ faq: [{"question": "Do I have to stop the whole renovation if we find mold?", "a
 published_at: "2026-09-05"
 services: ["mold-remediation", "home-remodeling"]
 rendered: true
+author: "Heath Davis"
 ---
 You pulled off the old drywall, lifted the vinyl flooring, or opened up a wall to run new wiring, and there it is: dark staining, a musty smell, or fuzzy growth on the back of the material you just removed. Finding mold in the middle of a renovation is common, and while it's frustrating to hit a snag, the timing is actually in your favor. The area is already open, the moisture source is usually right in front of you, and dealing with it now is far cheaper than discovering it after you've closed everything back up. Here's how to handle it without derailing the whole project.
 

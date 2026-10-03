@@ -18,6 +18,7 @@ faq: [{"question": "How long does composite decking actually last compared to wo
 published_at: "2026-09-08"
 services: ["decks-pergolas-fences"]
 rendered: true
+author: "Heath Davis"
 ---
 ## Wood vs Composite Decking: Which Is Right for Your Backyard?
 

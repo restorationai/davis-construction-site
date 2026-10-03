@@ -18,6 +18,7 @@ faq: [{"question": "How much should I expect to pay upfront as a deposit?", "ans
 published_at: "2026-09-02"
 services: ["general-contracting", "home-remodeling", "new-construction"]
 rendered: true
+author: "Heath Davis"
 ---
 Choosing a general contractor in Madison without getting burned comes down to three things: verifying who you're actually hiring, getting the scope and payment terms in writing before any work starts, and knowing which red flags mean you should keep looking. Madison's growth, from new subdivisions off Hughes Road to renovations in older neighborhoods near downtown, has pulled in contractors from all over the region, and not all of them plan to stick around if a job goes sideways. The homeowners who end up happy are the ones who did their homework before signing, not after.
 

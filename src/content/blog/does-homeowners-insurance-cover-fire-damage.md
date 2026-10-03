@@ -17,6 +17,7 @@ faq: [{"question": "Does homeowners insurance cover smoke damage if the fire sta
 published_at: "2026-06-08"
 services: ["fire-damage-restoration", "storm-damage-restoration"]
 rendered: true
+author: "Heath Davis"
 ---
 If your house caught fire last night and you're sitting in a hotel room trying to figure out whether your insurance will actually pay for this, the short answer is: yes, for most homeowners with a standard HO-3 policy, accidental fire damage is covered. But the details matter more than the headline, and the next 48 to 72 hours are the most important window for protecting your claim.
 

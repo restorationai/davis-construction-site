@@ -17,6 +17,7 @@ faq: [{"question": "How long does a full kitchen remodel take from start to fini
 published_at: "2026-09-21"
 services: ["kitchen-remodeling", "home-remodeling"]
 rendered: true
+author: "Heath Davis"
 ---
 **TL;DR:** A kitchen remodel in Huntsville, AL takes 6 to 12 weeks from demolition to final punch list for most full gut-and-replace projects. The single biggest schedule driver is cabinet and countertop lead time, not the physical labor. Semi-custom cabinets typically ship in 4 to 8 weeks after order; stone countertops add another 2 to 3 weeks after templating. Plan for those lead times before demo day and the rest of the schedule falls into place.
 

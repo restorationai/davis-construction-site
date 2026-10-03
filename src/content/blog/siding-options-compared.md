@@ -18,6 +18,7 @@ faq: [{"question": "Which siding material lasts the longest?", "answer": "Fiber 
 published_at: "2026-09-02"
 services: ["siding-gutters"]
 rendered: true
+author: "Heath Davis"
 ---
 ## Vinyl, Fiber Cement, or Wood? Home Siding Options Compared
 
