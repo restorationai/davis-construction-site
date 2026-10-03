@@ -1,9 +1,9 @@
 ---
 archetype: "blog-post"
-title: "How To Choose a General Contractor in  (Without Getting Burned)"
-h1: "How To Choose a General Contractor in  (Without Getting Burned)"
+title: "How To Choose a General Contractor in Madison (Without Getting Burned)"
+h1: "How To Choose a General Contractor in Madison (Without Getting Burned)"
 meta_description: ""
-primary_keyword: "how to choose a general contractor in  without getting burned"
+primary_keyword: "how to choose a general contractor in madison without getting burned"
 secondary_keywords: ["renovations, remodels and general contracting", "home remodeling", "new home construction"]
 search_intent: "commercial_decision"
 priority: 6.0
@@ -13,7 +13,7 @@ plan_hash: "0955c742468e71c0"
 generated_at: "2026-10-02T16:23:32.029479+00:00"
 manual_override: false
 internal_links: ["/blog/", "/services/home-remodeling/", "/services/new-construction/", "/blog/how-to-plan-a-home-remodel/", "/blog/do-you-need-a-permit/", "/blog/kitchen-remodel-cost-breakdown/"]
-breadcrumb: [{"name": "Home", "url": "/"}, {"name": "Blog", "url": "/blog/"}, {"name": "How To Choose a General Contractor in  (Without Getting Burned)"}]
+breadcrumb: [{"name": "Home", "url": "/"}, {"name": "Blog", "url": "/blog/"}, {"name": "How To Choose a General Contractor in Madison (Without Getting Burned)"}]
 faq: [{"question": "How much should I expect to pay upfront as a deposit?", "answer": "Many states regulate maximum upfront deposits for home improvement contracts, often capping them well below half the total project cost. A reasonable deposit typically covers initial materials, with the rest tied to completed phases of work rather than paid in one lump sum before work begins."}, {"question": "What's the difference between a general contractor and a subcontractor?", "answer": "A general contractor manages the overall project, including hiring and coordinating subcontractors like electricians, plumbers, and framers, and is the party responsible for the finished result. A subcontractor is hired for a specific trade and typically answers to the general contractor, not directly to you, unless you're acting as your own general contractor."}, {"question": "Do I need a permit for a remodeling project, or just new construction?", "answer": "It depends on the scope. Structural changes, additions, and most electrical or plumbing work typically require permits even on an existing home, while cosmetic updates like painting or flooring replacement usually don't. Your contractor should be able to tell you upfront which permits the City of Madison requires for your specific project."}, {"question": "What should be included in a written contract before work starts?", "answer": "A solid contract includes a detailed scope of work with materials and finishes specified, a payment schedule tied to project milestones, a projected timeline, a change-order process, and contact information including the contractor's license number. If any of these are missing or vague, ask for them to be added before you sign."}]
 published_at: "2026-09-02"
 services: ["general-contracting", "home-remodeling", "new-construction"]

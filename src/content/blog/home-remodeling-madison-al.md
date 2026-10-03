@@ -1,9 +1,9 @@
 ---
 archetype: "blog-post"
-title: "Home Remodeling in Madison, AL: What to Expect, What It Costs, and How to Get Started"
-h1: "Home Remodeling in Madison, AL: What to Expect, What It Costs, and How to Get Started"
+title: "Planning a Home Remodel in Madison, AL: What to Expect, What It Costs, and How to Get Started"
+h1: "Planning a Home Remodel in Madison, AL: What to Expect, What It Costs, and How to Get Started"
 meta_description: "Planning a home remodel in Madison, AL? Here's what projects cost, how long they take, what permits you need, and how to find a contractor who knows the area."
-primary_keyword: "home remodeling madison al"
+primary_keyword: "planning a home remodel in madison al"
 secondary_keywords: []
 search_intent: "commercial"
 priority: 7
@@ -11,16 +11,17 @@ hero: "https://images.davisconstructioncontractors.com/blog/2026/09/home-remodel
 og: "https://images.davisconstructioncontractors.com/blog/2026/09/home-remodeling-madison-al/hero.webp"
 generated_at: "2026-09-17T10:29:36Z"
 manual_override: false
-internal_links: ["/services/home-remodeling/", "/services/roofing/", "/services/siding-gutters/", "/contact/", "/blog/how-much-does-a-home-remodel-cost/", "/blog/how-to-choose-a-general-contractor/", "/blog/licensed-vs-unlicensed-contractor-alabama/", "/blog/crawl-space-mold-removal-madison/", "/blog/how-long-does-a-home-remodel-take/"]
-breadcrumb: [{"name": "Home", "url": "/"}, {"name": "Blog", "url": "/blog/"}, {"name": "Home Remodeling in Madison, AL: What to Expect, What It Costs, and How to Get Started"}]
+internal_links: ["/services/home-remodeling/", "/services/roofing/", "/services/siding-gutters/", "/contact/", "/blog/how-much-does-a-home-remodel-cost/", "/blog/how-to-choose-a-general-contractor/", "/blog/licensed-vs-unlicensed-contractor-alabama/", "/blog/crawl-space-mold-removal-madison/", "/blog/how-long-does-a-home-remodel-take/", "/"]
+breadcrumb: [{"name": "Home", "url": "/"}, {"name": "Blog", "url": "/blog/"}, {"name": "Planning a Home Remodel in Madison, AL: What to Expect, What It Costs, and How to Get Started"}]
 faq: [{"question": "Do I need a permit to remodel my kitchen or bathroom in Madison, AL?", "answer": "Yes, if the work involves electrical, plumbing, or structural changes. Replacing cabinets, countertops, or flooring without touching the plumbing or wiring typically does not require a permit. Adding a circuit, moving a drain line, or removing a wall does. Your contractor should pull the permit, not you."}, {"question": "How long does a home remodel take in Madison, AL?", "answer": "A kitchen or bathroom remodel typically takes 6 to 12 weeks of active construction, plus 4 to 8 weeks of design, HOA review (if applicable), and permitting before work starts. A room addition or whole-home renovation runs 4 to 9 months total. Material lead times for custom cabinets or specialty windows can add 4 to 8 weeks if not ordered early."}, {"question": "Do Madison, AL HOAs have to approve remodeling projects?", "answer": "For interior-only work, most HOAs do not require approval. For any exterior change, including additions, new windows, door replacements, deck additions, or changes to roofline or siding, most Madison subdivisions with active HOAs require architectural review committee approval before you can pull a city permit. Get HOA approval in writing first."}, {"question": "What is a realistic budget for a home remodel in Madison, AL?", "answer": "A focused kitchen remodel runs $20,000 to $50,000. A primary bathroom renovation is typically $12,000 to $30,000. A room addition starts around $60,000. Whole-home renovations on older Madison ranch homes often run $80,000 to $150,000 or more depending on scope. Add a 10 to 15 percent contingency for homes built before 1990."}, {"question": "How do I verify a contractor is licensed in Alabama?", "answer": "Alabama requires general contractors on projects over $10,000 to hold a state license from the Alabama Licensing Board for General Contractors. You can verify a license number at the board's website (albgc.state.al.us). Always ask for the license number and a certificate of insurance showing general liability and workers' compensation before signing a contract."}, {"question": "What remodeling projects add the most value to a Madison, AL home?", "answer": "Kitchen and primary bathroom renovations consistently deliver the strongest return in North Alabama's resale market. Exterior improvements like siding, roofing, and windows also add value while protecting the home from Madison's humid climate. Opening up a closed floor plan in a 1970s or 1980s ranch home is one of the most cost-effective ways to modernize an older property."}]
 published_at: "2026-09-17"
+updated_at: "2026-10-03"
 services: []
 rendered: true
 ---
 **TL;DR:** Home remodeling in Madison, AL typically runs $15,000 to $80,000 depending on scope, with kitchen and bathroom renovations on the lower end and full additions or whole-home remodels at the top. Local factors like HOA approval requirements, Madison City permitting timelines, and North Alabama's humidity all affect project planning. Getting a written scope and a realistic schedule before you sign anything is the single best thing you can do.
 
-If you're sitting on a 1980s ranch off County Line Road and the kitchen hasn't been touched since the original build, or you just bought a 2005 colonial in Bradford Creek and want to open up the floor plan before the holidays, you're looking at a real project with real variables. Madison's housing stock runs the full spectrum: older 1970s-80s brick ranches with original layouts and aging mechanicals, and newer 2000s-2020s subdivisions where HOA architectural review adds a step most homeowners don't anticipate. This guide walks through what remodeling actually costs here, how the permitting process works, and what separates a smooth project from a frustrating one.
+If you're sitting on a 1980s ranch off County Line Road and the kitchen hasn't been touched since the original build, or you just bought a 2005 colonial in Bradford Creek and want to open up the floor plan before the holidays, you're looking at a real project with real variables. Madison's housing stock runs the full spectrum: older 1970s-80s brick ranches with original layouts and aging mechanicals, and newer 2000s-2020s subdivisions where HOA architectural review adds a step most homeowners don't anticipate. This guide walks through what remodeling actually costs here, how the permitting process works, and what separates a smooth project from a frustrating one. Full service details are on the [Madison home remodeling services](/services/home-remodeling/).
 
 ## What Does a Home Remodel Cost in Madison, AL?
 
