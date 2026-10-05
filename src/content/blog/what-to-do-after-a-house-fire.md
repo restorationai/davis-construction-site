@@ -117,6 +117,6 @@ Ask the contractor specifically:
 
 Once the immediate steps are handled, fire restoration typically moves through three phases: stabilization and drying (water from suppression must be extracted and dried to prevent secondary mold growth within 48 to 72 hours of saturation), cleaning and deodorization, and structural reconstruction.
 
-The reconstruction phase, which involves replacing drywall, framing, flooring, roofing, and finishes, is where a full-service general contractor becomes essential. Storm damage and fire damage often overlap in scope: a fire that compromises the roof creates immediate weather exposure, and the repair sequence matters for both the insurance claim and the structural integrity of the rebuild.
+The [reconstruction phase](/services/fire-smoke-rebuilding/), which involves replacing drywall, framing, flooring, roofing, and finishes, is where a full-service general contractor becomes essential. Storm damage and fire damage often overlap in scope: a fire that compromises the roof creates immediate weather exposure, and the repair sequence matters for both the insurance claim and the structural integrity of the rebuild.
 
 Davis Construction Contractors handles storm damage response and reconstruction work across Madison, Huntsville, and Athens. If you need an assessment of what your home needs after a fire, call (256) 771-0326 to schedule a walkthrough.

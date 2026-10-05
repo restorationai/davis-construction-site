@@ -60,7 +60,7 @@ The right fire restoration contractor for a Madison or Huntsville home should be
 
 Avoid contractors who pressure you to sign an Assignment of Benefits (AOB) document at the first visit. An AOB transfers your insurance claim rights to the contractor, which limits your ability to dispute the scope or switch contractors if the job goes wrong.
 
-Look for contractors who handle both the restoration and reconstruction phases in-house. Fire jobs that get split between a cleanup company and a separate general contractor frequently stall at the handoff, leaving homeowners in temporary housing longer than necessary. A single contractor who carries the job from board-up through final paint and trim keeps accountability in one place.
+Look for contractors who handle both the [restoration and reconstruction phases](/services/fire-smoke-rebuilding/) in-house. Fire jobs that get split between a cleanup company and a separate general contractor frequently stall at the handoff, leaving homeowners in temporary housing longer than necessary. A single contractor who carries the job from board-up through final paint and trim keeps accountability in one place.
 
 If your home sustained [storm damage](/services/storm-damage-restoration/) alongside the fire, such as a roof compromised by both fire and a recent hail event, make sure your contractor can document and scope both causes of loss separately. Insurers handle storm and fire claims differently, and a combined scope needs to clearly attribute each item.
 

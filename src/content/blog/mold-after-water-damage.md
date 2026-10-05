@@ -66,7 +66,7 @@ Call a water damage restoration professional if any of the following apply:
 - Water got into walls, under flooring, or into a crawl space or basement
 - You can smell a musty odor even after the visible water is gone (that smell is mold metabolites, the colony is already established)
 - The affected area is larger than roughly 10 square feet
-- The water came from a sewage backup, toilet overflow, or floodwater (this is considered Category 3 "black water" and carries serious contamination risks)
+- The water came from a [sewage backup](/services/basement-sewage-cleanup/), toilet overflow, or floodwater (this is considered Category 3 "black water" and carries serious contamination risks)
 - Anyone in the household has respiratory sensitivities, asthma, or a compromised immune system
 
 Professional water damage restoration involves industrial-grade dehumidifiers and air movers that pull moisture out of materials at a rate no consumer equipment can match. Technicians also use thermal imaging and moisture meters to find hidden wet areas behind walls and under floors, the spots where mold problems quietly develop over weeks before anyone notices.

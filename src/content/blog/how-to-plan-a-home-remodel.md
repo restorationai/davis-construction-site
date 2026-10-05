@@ -67,7 +67,7 @@ What often does not require a permit:
 - Direct appliance replacements on existing circuits
 - Most fixture swaps (faucets, light fixtures on existing circuits)
 
-If you live in a newer subdivision, check your HOA documents before you start design. Many planned communities in the Madison and Huntsville areas, including developments in Hampton Cove, require an architectural review committee (ARC) approval for exterior changes, additions, and sometimes even window replacements. ARC approval is separate from the city building permit and often has its own timeline of 30 to 60 days. Missing this step can result in fines or a stop-work order.
+If you live in a newer subdivision, check your HOA documents before you start design. Many planned communities in the Madison and Huntsville areas, including developments in Hampton Cove, require an architectural review committee (ARC) approval for exterior changes, additions, and sometimes even [window replacements](/services/windows-doors/). ARC approval is separate from the city building permit and often has its own timeline of 30 to 60 days. Missing this step can result in fines or a stop-work order.
 
 Your contractor should pull permits in their name. If a contractor asks you to pull your own permits, that is a red flag: it shifts liability to you and may indicate they are not properly licensed for the work.
 

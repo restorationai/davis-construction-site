@@ -50,7 +50,7 @@ Fiber cement tends to be the choice for owners who want a longer-term material t
 
 Wood, whether cedar, pine, or engineered wood products, gives a house a look that vinyl and fiber cement both try to imitate. It can be stained or painted in nearly any finish, and individual damaged boards can be pulled and replaced without redoing an entire wall, which isn't always true of the other two materials.
 
-The catch is maintenance. Wood siding needs to be painted or sealed on a regular cycle, and in a climate with Madison's humidity, skipping that cycle invites moisture into the grain, which leads to swelling, cupping, and eventually rot, particularly at butt joints, under window sills, and anywhere gutters have overflowed onto the wall below. Wood is also more attractive to insects than the other two materials. For owners who are willing to keep up a paint schedule and want a specific architectural look, wood is still a strong option. For owners who want to install it and largely forget about it, it's the wrong material.
+The catch is maintenance. Wood siding needs to be painted or sealed on a regular cycle, and in a climate with Madison's humidity, skipping that cycle invites moisture into the grain, which leads to swelling, cupping, and eventually rot, particularly at butt joints, under window sills, and anywhere gutters have overflowed onto the wall below. Wood is also more attractive to insects than the other two materials. For owners who are willing to keep up a [paint schedule](/services/painting-trim/) and want a specific architectural look, wood is still a strong option. For owners who want to install it and largely forget about it, it's the wrong material.
 
 ## How Gutters and Drainage Change the Equation
 

@@ -70,7 +70,7 @@ If any mold growth is found, that triggers a separate remediation protocol. Affe
 
 ## Phase 4: Reconstruction (Week 2 and Beyond)
 
-Once the structure passes moisture verification, reconstruction can begin. This is the phase that feels most like normal contracting work: hanging new drywall, taping and mudding, painting, reinstalling flooring, replacing trim and fixtures.
+Once the structure passes moisture verification, reconstruction can begin. This is the phase that feels most like normal contracting work: hanging new drywall, taping and mudding, [painting](/services/painting-trim/), reinstalling flooring, replacing trim and fixtures.
 
 For a straightforward job, say, a bathroom supply line leak that damaged one wall and part of the subfloor, reconstruction might take 2 to 4 days. For a finished basement that flooded, you could be looking at 2 to 4 weeks of reconstruction after drying is complete.
 

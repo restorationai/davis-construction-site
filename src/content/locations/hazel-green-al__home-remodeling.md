@@ -36,7 +36,7 @@ From there, we move through a straightforward sequence: design and material sele
 
 ## Getting to Hazel Green from Our Madison Base
 
-Our crew operates out of Madison, AL, and the drive to Hazel Green is a straightforward run up U.S. 231 North. Depending on where a project sits, whether closer to the Hazel Green Road corridor or further north toward the county line, we are typically on-site within a reasonable drive for scheduled work and consultations. We schedule Hazel Green projects with the same priority as any other job in our service area, and we do not treat outlying areas as afterthoughts.
+Our crew operates out of Madison, AL, and the drive to Hazel Green is a straightforward run up U.S. 231 North. Depending on where a project sits, whether closer to the Hazel Green Road corridor or further north toward the county line, it is a short trip for scheduled work and consultations. We schedule Hazel Green projects with the same priority as any other job in our service area, and we do not treat outlying areas as afterthoughts.
 
 ## Local Note
 
