@@ -1,1 +1,27 @@
-{}
+{
+  "decks-pergolas-fences": [
+    "Deck Construction"
+  ],
+  "home-remodeling": [
+    "Remodeler"
+  ],
+  "new-construction": [
+    "Home Construction"
+  ],
+  "painting-trim": [
+    "Painting"
+  ],
+  "post-construction-specialty-cleaning": [
+    "Construction",
+    "Post-construction Cleaning"
+  ],
+  "storm-damage-restoration": [
+    "Hurricane Damage Restoration"
+  ],
+  "water-damage-restoration": [
+    "Standing Water Removal",
+    "Water Cleanup",
+    "Water Mitigation",
+    "Wet Carpet Drying"
+  ]
+}
