@@ -64,7 +64,7 @@ export const brand = {
   certifications: [] as string[],
   trustBadges: [] as string[],
   jobPhotos: [] as string[],
-  sameAsUrls: ["https://davisconstructioncontractors.com/about/"] as string[],
+  sameAsUrls: ["https://davisconstructioncontractors.com/about/", "https://maps.google.com/maps?cid=13051415617823897774", "https://www.facebook.com/davisconstructionnc/", "https://homeguide.com/al/madison/water-damage-restoration/davis-construction-contractors-IqEW3eGSB"] as string[],
   // GBP rating fields — synced from the live Google Business Profile by
   // scripts/sync_brand_reviews.py; never hand-edited (real ratings only).
   gbpRatingValue: "",
