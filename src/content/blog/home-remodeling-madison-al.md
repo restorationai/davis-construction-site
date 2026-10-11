@@ -74,7 +74,7 @@ The right contractor for a Madison remodel is licensed and insured, pulls their 
 
 Here's what to verify before you sign:
 
-- **License and insurance.** Alabama requires general contractors on projects over $10,000 to hold a state license. Ask for the license number and verify it with the [Alabama Licensing Board for General Contractors](https://www.albgc.state.al.us). Ask for a certificate of insurance showing general liability and workers' compensation.
+- **License and insurance.** Alabama requires general contractors on projects over $10,000 to hold a state license. Ask for the license number and verify it with the [Alabama Licensing Board for General Contractors](https://genconbd.alabama.gov/). Ask for a certificate of insurance showing general liability and workers' compensation.
 - **Written scope of work.** A legitimate contractor provides a detailed written scope: what's included, what's excluded, the materials specified by brand and model number, the payment schedule, and the projected timeline. Vague proposals lead to disputes.
 - **Local references.** Ask for references from projects in Madison specifically. A contractor who has worked in Bradford Creek or Old Town Madison knows the HOA process, the local inspectors, and the quirks of the local housing stock.
 - **Payment terms.** A standard payment schedule is 10-30% deposit, progress payments tied to construction milestones, and a final payment held until the punch list is complete. Never pay more than 50% upfront.

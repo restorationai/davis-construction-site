@@ -27,7 +27,7 @@ You've got a project in mind. Maybe it's a kitchen gut-and-redo, or an addition 
 
 No, but the overlap is significant. A remodeling contractor specializes in renovating existing structures: updating what's already there rather than building from scratch. A general contractor is a broader role that covers any construction project, including new construction, commercial builds, and ground-up residential work. The key difference is scope and specialization, not licensing category.
 
-Both types typically hold a general contractor license (in Alabama, that's issued by the [Alabama Licensing Board for General Contractors](https://www.albgc.state.al.us/)). The license doesn't tell you what they specialize in. Their portfolio and project history do. A contractor who's spent 15 years doing kitchen and bath remodels has a different skill set than one who's spent those years framing new subdivisions, even if both carry the same license class.
+Both types typically hold a general contractor license (in Alabama, that's issued by the [Alabama Licensing Board for General Contractors](https://genconbd.alabama.gov/)). The license doesn't tell you what they specialize in. Their portfolio and project history do. A contractor who's spent 15 years doing kitchen and bath remodels has a different skill set than one who's spent those years framing new subdivisions, even if both carry the same license class.
 
 ## What does a remodeling contractor actually do?
 

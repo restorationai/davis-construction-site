@@ -74,7 +74,7 @@ Three things commonly explain why bids are thousands of dollars apart, and not a
 
 **Hidden condition allowances.** Older Madison ranch homes from the 1970s and 80s sometimes have galvanized supply lines, aluminum wiring, or subfloor rot under the existing vinyl. A thorough contractor will include a condition allowance ($1,500-$3,000) in the bid to cover what gets discovered during demo. A low bidder who skips this isn't cheaper, they're just moving the cost to a change order you'll see mid-project.
 
-**Licensing and insurance.** Alabama requires general contractors on projects over $10,000 to hold a state license through the Alabama Licensing Board for General Contractors ([albgc.org](https://www.albgc.org/)). Ask for the license number and verify it. Davis Construction Contractors is licensed and insured for remodeling work across Madison and the surrounding area.
+**Licensing and insurance.** Alabama requires general contractors on projects over $10,000 to hold a state license through the Alabama Licensing Board for General Contractors ([albgc.org](https://genconbd.alabama.gov/)). Ask for the license number and verify it. Davis Construction Contractors is licensed and insured for remodeling work across Madison and the surrounding area.
 
 For a deeper look at how to vet contractors before you sign, see our post on [how to choose a general contractor](/blog/how-to-choose-a-general-contractor/).
 

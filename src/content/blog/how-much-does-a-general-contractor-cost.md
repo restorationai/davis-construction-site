@@ -110,7 +110,7 @@ A few things to check on any bid:
 
 **What's the payment schedule?** A standard schedule ties payments to milestones, deposit at signing, draw at rough-in complete, draw at drywall, final payment at punch-list completion. Avoid any GC who wants more than 30–35% upfront on a remodel.
 
-**Is the GC licensed and insured?** In Alabama, general contractors performing work over $10,000 are required to hold a state contractor's license. Ask for the license number and verify it with the [Alabama Licensing Board for General Contractors](https://www.albgc.state.al.us/). Davis Construction Inc. is licensed and insured.
+**Is the GC licensed and insured?** In Alabama, general contractors performing work over $10,000 are required to hold a state contractor's license. Ask for the license number and verify it with the [Alabama Licensing Board for General Contractors](https://genconbd.alabama.gov/). Davis Construction Inc. is licensed and insured.
 
 **Do they pull their own permits?** A GC who asks you to pull the permit is shifting risk to you. Don't accept that arrangement.
 

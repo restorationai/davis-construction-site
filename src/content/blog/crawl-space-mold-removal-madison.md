@@ -101,7 +101,7 @@ For Madison homeowners who aren't ready for full encapsulation, a tiered approac
 - Install a crawl space humidity monitor (around $30–$50) and check it monthly through summer, if it's consistently reading above 70%, you need active dehumidification
 - Have the crawl space inspected annually, ideally in late spring before peak humidity season
 
-The [EPA's moisture control guidance](https://www.epa.gov/mold/moisture-control) covers the building science behind these recommendations in more detail.
+The [EPA's moisture control guidance](https://www.epa.gov/mold/brief-guide-mold-moisture-and-your-home) covers the building science behind these recommendations in more detail.
 
 If you've already had mold remediated and want to make sure it doesn't return, ask your contractor for a written maintenance plan that specifies target humidity levels, dehumidifier drain maintenance intervals, and what to look for at annual inspections.
 

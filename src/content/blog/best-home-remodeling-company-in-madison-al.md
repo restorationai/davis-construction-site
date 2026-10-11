@@ -51,7 +51,7 @@ Rating alone doesn't tell the full story. A 5.0 from 71 reviews is meaningful. A
 
 Google ratings are a starting point, not a finish line. Here's what matters when you're comparing bids on a real project in Madison.
 
-**Licensing and insurance.** Alabama requires a general contractor license for projects over $10,000 through the [Alabama Licensing Board for General Contractors](https://www.albgc.state.al.us). Ask every contractor for their license number and verify it directly on the board's site. Licensed and insured is the floor, not a differentiator.
+**Licensing and insurance.** Alabama requires a general contractor license for projects over $10,000 through the [Alabama Licensing Board for General Contractors](https://genconbd.alabama.gov/). Ask every contractor for their license number and verify it directly on the board's site. Licensed and insured is the floor, not a differentiator.
 
 **Scope of self-performed work vs. subcontracting.** Some remodelers are primarily project managers who sub out every trade. Others have in-house crews for framing, finish carpentry, and tile. Neither model is wrong, but you should know which you're hiring. A company that subs everything out adds a markup layer on each trade and has less direct control over scheduling.
 

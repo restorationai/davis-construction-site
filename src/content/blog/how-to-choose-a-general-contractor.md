@@ -35,7 +35,7 @@ The quality of that coordination is what you're actually buying when you hire a 
 
 ## How Do You Verify a Contractor's License and Insurance?
 
-Alabama requires general contractors to hold a license issued by the [Alabama Licensing Board for General Contractors](https://genbd.alabama.gov/) for projects over $10,000. You can search the board's database directly to confirm a contractor's license is active and in good standing. This takes about two minutes and tells you whether they're operating legally.
+Alabama requires general contractors to hold a license issued by the [Alabama Licensing Board for General Contractors](https://genconbd.alabama.gov/) for projects over $10,000. You can search the board's database directly to confirm a contractor's license is active and in good standing. This takes about two minutes and tells you whether they're operating legally.
 
 Beyond the license, ask for two insurance documents before any conversation about price:
 

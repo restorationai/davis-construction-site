@@ -27,7 +27,7 @@ You noticed dark staining behind your bathroom vanity or caught a musty smell co
 
 Mold is covered by homeowners insurance when it is a direct result of a covered peril, most commonly sudden and accidental water damage. If a pipe bursts in your wall and mold grows within days because the water wasn't found immediately, that mold claim typically follows the water damage claim. What insurers will not pay for is mold that developed from a slow, ongoing moisture problem that a homeowner could have caught and fixed.
 
-The [Insurance Information Institute](https://www.iii.org/article/what-covered-standard-homeowners-policy) notes that standard HO-3 policies cover sudden and accidental discharge of water but exclude damage from continuous or repeated seepage. That distinction is the hinge point for almost every mold claim.
+The [Insurance Information Institute](https://www.iii.org/article/what-is-covered-by-standard-homeowners-insurance) notes that standard HO-3 policies cover sudden and accidental discharge of water but exclude damage from continuous or repeated seepage. That distinction is the hinge point for almost every mold claim.
 
 A few examples of how this plays out:
 

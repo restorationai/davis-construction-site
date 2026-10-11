@@ -25,7 +25,7 @@ You've got three bids on your kitchen remodel or new addition, and one of them i
 
 ## Do contractors in Alabama need a license?
 
-Yes, Alabama has two separate licensing systems depending on the type and size of the project. The [Alabama Licensing Board for General Contractors](https://genbd.alabama.gov/) covers commercial and residential projects with a contract value of $50,000 or more. The [Home Builders Licensure Board (HBLB)](https://www.hblb.alabama.gov/) covers residential new construction and remodeling regardless of dollar amount, any contractor building or substantially renovating a home in Alabama needs an HBLB license.
+Yes, Alabama has two separate licensing systems depending on the type and size of the project. The [Alabama Licensing Board for General Contractors](https://genconbd.alabama.gov/) covers commercial and residential projects with a contract value of $50,000 or more. The [Home Builders Licensure Board (HBLB)](https://www.hblb.alabama.gov/) covers residential new construction and remodeling regardless of dollar amount, any contractor building or substantially renovating a home in Alabama needs an HBLB license.
 
 Those two boards cover most of what homeowners hire for. A contractor doing a $30,000 bathroom remodel doesn't need a General Contractors Board license, but they do need an HBLB license. A contractor building a $400,000 custom home needs both. Specialty trades, electrical, plumbing, HVAC, have their own separate licensing boards, and a licensed general contractor is responsible for verifying that their subs hold the right credentials too.
 
@@ -49,7 +49,7 @@ A licensed contractor has passed a trade exam, demonstrated financial responsibi
 
 Verifying a license takes about two minutes and requires only the contractor's name or company name.
 
-1. **For general contractors (projects $50,000+):** Go to [genbd.alabama.gov](https://genbd.alabama.gov/) and use the license lookup tool. You'll see the license number, current status (active, expired, suspended), and the classifications the contractor holds.
+1. **For general contractors (projects $50,000+):** Go to [genbd.alabama.gov](https://genconbd.alabama.gov/) and use the license lookup tool. You'll see the license number, current status (active, expired, suspended), and the classifications the contractor holds.
 2. **For residential builders and remodelers:** Go to [hblb.alabama.gov](https://www.hblb.alabama.gov/) and search by name or license number. This covers anyone doing new home construction or residential remodeling.
 3. **Ask for the license number directly.** Any legitimate contractor will give it to you without hesitation. If they hedge, that's your answer.
 4. **Confirm insurance separately.** Ask for a certificate of general liability insurance and workers' compensation. Call the insurer to verify the policy is active, certificates can be outdated.

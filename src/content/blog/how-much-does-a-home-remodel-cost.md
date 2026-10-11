@@ -95,7 +95,7 @@ For whole-home projects, scope the work in phases if budget is a constraint:
 
 Phasing lets you spread cost and ensures finish work doesn't get damaged by subsequent rough-in work. It also means permits close cleanly before the next phase opens.
 
-According to Remodeling Magazine's [Cost vs. Value Report](https://www.remodeling.hw.net/cost-vs-value/), mid-range kitchen and bath remodels in the South Atlantic region recoup 60–75% of cost at resale. That's a reasonable expectation, remodeling is primarily about livability, not pure investment return.
+According to Remodeling Magazine's Cost vs. Value Report, mid-range kitchen and bath remodels in the South Atlantic region recoup 60–75% of cost at resale. That's a reasonable expectation, remodeling is primarily about livability, not pure investment return.
 
 ## What factors move the number up or down?
 
