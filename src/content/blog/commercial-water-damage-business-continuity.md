@@ -32,7 +32,7 @@ North Alabama's climate adds another layer. Madison and the surrounding Tennesse
 
 The decisions made in the first few hours after a commercial water loss have an outsized effect on total recovery cost and downtime. Here's what to do in sequence:
 
-1. **Stop the water source.** Shut off the supply valve closest to the break. If you can't isolate it, shut off the building main. For roof or weather-related intrusion, place containment, buckets, plastic sheeting, to limit spread while you arrange emergency tarping.
+1. **Stop the water source.** Shut off the supply valve closest to the break. If you can't isolate it, shut off the building main. For roof or weather-related intrusion, place containment, buckets, plastic sheeting, to limit spread while you arrange tarping.
 2. **Document everything before touching it.** Walk the affected area with your phone and record video. Capture standing water depth, wet materials, damaged inventory, and any visible structural concerns. This footage is critical for your insurance claim.
 3. **Notify your insurance carrier.** Most commercial policies require prompt notice of a loss. Call your broker or the carrier's claims line within the first few hours, not the next business day. Ask specifically whether your policy covers business interruption, many commercial policies do, but the clock on that coverage often starts at the time of loss, not when you file.
 4. **Restrict access to the affected area.** Standing water in a commercial space is a slip-and-fall liability. Wet electrical panels and outlets are a life-safety issue. Keep employees and customers out until a qualified technician has assessed the space.

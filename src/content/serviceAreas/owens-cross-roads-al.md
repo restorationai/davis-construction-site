@@ -31,7 +31,7 @@ Water damage in Owens Cross Roads often starts with a roof leak during a spring 
 
 ## Coverage and how fast we can get there
 
-We're based in Madison, and the drive to Owens Cross Roads typically runs through Huntsville via I-565 and US-431 South, or along local connector routes depending on where in the town the job is. It's a workable trip within the same business day, and we schedule site visits and emergency repairs during our regular hours, Monday through Friday, 8 AM to 5 PM. If your situation involves active water intrusion or storm damage, call as soon as it's safe to do so; we'll talk through what to do in the meantime and get a crew scheduled.
+We're based in Madison, and the drive to Owens Cross Roads typically runs through Huntsville via I-565 and US-431 South, or along local connector routes depending on where in the town the job is. It's a workable trip within the same business day, and we schedule site visits and repairs during our regular hours, Monday through Friday, 8 AM to 5 PM. If your situation involves active water intrusion or storm damage, call as soon as it's safe to do so; we'll talk through what to do in the meantime and get a crew scheduled.
 
 ## Building stock, site conditions, and permits in Owens Cross Roads
 

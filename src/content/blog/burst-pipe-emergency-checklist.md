@@ -3,7 +3,7 @@ archetype: "blog-post"
 title: "Burst Pipe Emergency Checklist: Step-by-Step Response"
 h1: "Burst Pipe Emergency Checklist: Step-by-Step Response"
 meta_description: ""
-primary_keyword: "burst pipe emergency checklist stepbystep response"
+primary_keyword: "burst pipe checklist: stepbystep response"
 secondary_keywords: ["water damage restoration", "appliance leak cleanup"]
 search_intent: "informational_emergency"
 priority: 6.0

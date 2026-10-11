@@ -69,7 +69,7 @@ Practical steps:
 - Shut off utilities if not already done (the fire department typically handles gas; confirm with the utility company)
 - Do not attempt to restore power until a licensed electrician has inspected the panel and wiring
 
-Board-up and emergency tarping are services that restoration contractors handle as part of the initial response. If you need this done quickly, a contractor experienced in storm and fire damage can typically respond within hours.
+Board-up and tarping are services that restoration contractors handle as part of the initial response. If you need this done quickly, a contractor experienced in storm and fire damage can typically respond within hours.
 
 ## Step 5: Understand What You Can Salvage and What You Cannot
 

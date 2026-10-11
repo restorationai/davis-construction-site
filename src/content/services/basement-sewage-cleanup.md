@@ -17,7 +17,7 @@ service_slug: "basement-sewage-cleanup"
 service_display: "Basement Sewage Cleanup"
 rendered: true
 ---
-**Basement sewage backup in your Madison home?** Call now for emergency service. Standing wastewater in a finished or unfinished basement is a contamination event, not a simple cleanup, and the longer it sits against drywall, flooring, and insulation, the more material has to come out.
+**Basement sewage backup in your Madison home? Standing wastewater in a finished or unfinished basement is a contamination event, not a simple cleanup, and the longer it sits against drywall, flooring, and insulation, the more material has to come out.
 
 ## What Basement Sewage Cleanup actually involves
 

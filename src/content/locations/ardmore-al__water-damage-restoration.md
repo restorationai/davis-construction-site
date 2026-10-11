@@ -20,7 +20,7 @@ state: "AL"
 service_display: "Water Damage Restoration"
 rendered: true
 ---
-**Water damage emergency in Ardmore?** Call now for emergency service and get a crew assessing the damage before standing water has a chance to wick into drywall, subfloor, and framing. Ardmore sits on the Alabama-Tennessee state line in Limestone County, where older farmhouses, brick ranch homes, and newer construction all share the same enemy: red clay soil that drains slowly and holds moisture against foundations long after a storm has passed.
+**Water damage emergency in Ardmore?Call to have a crew assess the damage before standing water has a chance to wick into drywall, subfloor, and framing. Ardmore sits on the Alabama-Tennessee state line in Limestone County, where older farmhouses, brick ranch homes, and newer construction all share the same enemy: red clay soil that drains slowly and holds moisture against foundations long after a storm has passed.
 
 ## Why Ardmore Properties See Water Damage Issues
 

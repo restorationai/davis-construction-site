@@ -18,7 +18,7 @@ services: ["water-damage-restoration"]
 rendered: true
 author: "Heath Davis"
 ---
-Most water damage restoration takes **3 to 5 days for drying alone**, but the full process, from emergency extraction through final repairs, commonly runs **1 to 3 weeks** depending on how much water got in, how long it sat, and what materials it touched. If drywall, subfloor, or insulation absorbed moisture, you're looking at the longer end of that range. The timeline isn't arbitrary; it's driven by physics. Wet structural materials have to reach a specific moisture content before reconstruction can begin, and rushing that step leads to mold, warped floors, and callbacks.
+Most water damage restoration takes **3 to 5 days for drying alone**, but the full process, from water extraction through final repairs, commonly runs **1 to 3 weeks** depending on how much water got in, how long it sat, and what materials it touched. If drywall, subfloor, or insulation absorbed moisture, you're looking at the longer end of that range. The timeline isn't arbitrary; it's driven by physics. Wet structural materials have to reach a specific moisture content before reconstruction can begin, and rushing that step leads to mold, warped floors, and callbacks.
 
 ---
 
@@ -86,7 +86,7 @@ A few things that commonly extend the reconstruction timeline:
 
 Here's a rough framework for a moderate water damage event, say, a washing machine supply hose that failed overnight and soaked a laundry room and adjacent hallway:
 
-- **Day 1:** Emergency call, extraction, equipment setup, initial moisture mapping
+- **Day 1:** Call received, extraction, equipment setup, initial moisture mapping
 - **Days 2–4:** Continuous drying, daily moisture checks, removal of damaged drywall and flooring if needed
 - **Day 5:** Final moisture verification, equipment removed
 - **Days 6–10:** Reconstruction, new drywall, texture, paint, flooring reinstall

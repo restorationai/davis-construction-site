@@ -57,7 +57,7 @@ Here's the line:
 - **Don't:** Tear out damaged drywall, pull up wet flooring, or haul debris to the curb before your adjuster visit. Once it's gone, it's very hard to document after the fact.
 - **Do:** Keep every receipt for emergency materials you buy (tarps, plywood, sandbags). These costs are often reimbursable under your policy's "additional living expenses" or mitigation provisions.
 
-If the damage is extensive, a large section of roof open to the sky, or several inches of water inside, a storm damage restoration contractor can deploy emergency tarping and water extraction while preserving the evidence trail your adjuster needs. That's a legitimate use of a professional at this stage.
+If the damage is extensive, a large section of roof open to the sky, or several inches of water inside, a storm damage restoration contractor can deploy tarping and water extraction while preserving the evidence trail your adjuster needs. That's a legitimate use of a professional at this stage.
 
 ## Step 4: Build Your Claim File Before You Call
 

@@ -43,7 +43,7 @@ Huntsville's humidity and the moisture-trapping characteristics of older masonry
 
 ### Storm damage and reconstruction
 
-Hail and wind events near the Redstone Arsenal gate area and across South Huntsville (35802) routinely damage roofing, gutters, siding, and windows. We provide documented damage assessments that support insurance claims and carry out full reconstruction, from emergency tarping the night of the storm through final inspection.
+Hail and wind events near the Redstone Arsenal gate area and across South Huntsville (35802) routinely damage roofing, gutters, siding, and windows. We provide documented damage assessments that support insurance claims and carry out full reconstruction, from tarping the night of the storm through final inspection.
 
 ## Response time and coverage
 

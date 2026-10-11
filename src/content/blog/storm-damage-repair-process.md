@@ -37,14 +37,14 @@ Before any cleanup or temporary repair happens, photograph and video everything.
 
 This documentation becomes the backbone of your insurance claim, and it's much easier to gather it now than to reconstruct it after cleanup has started.
 
-## Step Two: Stop Further Damage (Emergency Mitigation)
+## Step Two: Stop Further Damage (Mitigation)
 
 Once the damage is documented, the priority shifts to keeping water out and preventing the loss from growing.
 
 - **Roof breaches**: A tarp installed over exposed decking is a stopgap, not a fix. It needs to be secured tightly at the edges and checked after any additional wind event, since a loose tarp can do more harm by trapping moisture against the roof deck.
 - **Broken windows or siding gaps**: Plywood or heavy plastic sheeting keeps wind-driven rain from soaking insulation and framing behind the wall.
 - **Standing water indoors**: If water has pooled on flooring, it needs to be extracted within the first 24 to 48 hours. Wet drywall, subfloor, and insulation left in place longer than that create the right conditions for mold colonization, which turns a straightforward repair into a remediation project.
-- **Downed trees or limbs on the structure**: Don't attempt to move large debris yourself, especially if it's resting against power lines or an unstable section of roof. This is where calling in a storm damage restoration crew for emergency board-up and tarping makes the difference between a contained loss and a secondary one.
+- **Downed trees or limbs on the structure**: Don't attempt to move large debris yourself, especially if it's resting against power lines or an unstable section of roof. This is where calling in a storm damage restoration crew for board-up and tarping makes the difference between a contained loss and a secondary one.
 
 ## What Not to Do While You're Waiting for Inspection
 

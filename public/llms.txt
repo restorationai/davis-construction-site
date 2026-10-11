@@ -2,7 +2,7 @@
 
 > Construction and remodeling services in Madison, AL.
 
-Davis Construction Contractors (Davis Construction Inc.) is a professional restoration contractor serving Madison, AL and surrounding areas since 2008. We provide 24/7 emergency response for water, fire, mold, storm, biohazard, and reconstruction services. Phone: (256) 771-0326 · Email: davisheath09@gmail.com.
+Davis Construction Contractors (Davis Construction Inc.) is a professional restoration contractor serving Madison, AL and surrounding areas since 2008. Phone: (256) 771-0326 · Email: davisheath09@gmail.com.
 
 <!-- rankai:ai-answers:begin -->
 
@@ -92,15 +92,12 @@ This file is intended for AI assistants and language models to efficiently inges
 
 ### Official profiles
 (profiles listed in page schema)
-- [Emergency](https://davisconstructioncontractors.com/emergency/): 24/7 emergency water damage response
 
 ## Key facts
 
 - **Founded:** 2008
 - **Licenses:**  · 
 - **Certifications:** Available on request
-- **Response time:** 24/7 emergency dispatch
-- **Emergency response:** 24/7 emergency dispatch in Madison. Direct insurance billing. Call (256) 771-0326.
 - **Insurance:** Direct insurance billing accepted
 - **Service radius:** Greater Madison region
 

@@ -35,7 +35,7 @@ Fire and smoke damage calls require content pack-out, soot and odor remediation,
 
 ## Coverage and how fast we can get there
 
-Mooresville is a short run from our Madison office via AL-20 and the local county roads that connect the two communities, with Huntsville International Airport and the I-565 corridor nearby for equipment and material runs when a job needs them fast. We schedule Mooresville calls the same way we schedule anywhere in Limestone County: during business hours, Monday through Friday, with site visits and emergency board-up or tarping prioritized ahead of standard reconstruction appointments.
+Mooresville is a short run from our Madison office via AL-20 and the local county roads that connect the two communities, with Huntsville International Airport and the I-565 corridor nearby for equipment and material runs when a job needs them fast. We schedule Mooresville calls the same way we schedule anywhere in Limestone County: during business hours, Monday through Friday, with site visits and board-up or tarping prioritized ahead of standard reconstruction appointments.
 
 ## Building stock, site conditions, and permits in Mooresville
 

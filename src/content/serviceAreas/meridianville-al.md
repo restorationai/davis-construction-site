@@ -19,7 +19,7 @@ state: "AL"
 primary: false
 rendered: true
 ---
-Davis Construction Contractors works with Meridianville homeowners and property managers on the repair and rebuild side of water, fire, and storm damage, along with the construction work that follows once a loss is cleaned up and drying is complete. Based just down the road in Madison, we handle everything from emergency tarping and water extraction through framing, drywall, and finish work, so you are not managing separate crews for mitigation and reconstruction.
+Davis Construction Contractors works with Meridianville homeowners and property managers on the repair and rebuild side of water, fire, and storm damage, along with the construction work that follows once a loss is cleaned up and drying is complete. Based just down the road in Madison, we handle everything from tarping and water extraction through framing, drywall, and finish work, so you are not managing separate crews for mitigation and reconstruction.
 
 ## Restoration emergencies common in Meridianville
 

@@ -20,7 +20,7 @@ state: "AL"
 service_display: "Storm Damage Restoration"
 rendered: true
 ---
-**Storm damage in Decatur can go from a few lifted shingles to water pouring into your attic in the time it takes a front to cross Wheeler Lake.** Call now for emergency service if wind, hail, or a downed limb has opened up your roof or siding. Decatur sits in the stretch of north Alabama storm spotters call Dixie Alley, where spring squall lines and summer microbursts roll off the Tennessee River corridor fast and often with little warning, and the roofs and siding of Morgan County take the brunt of it.
+**Storm damage in Decatur can go from a few lifted shingles to water pouring into your attic in the time it takes a front to cross Wheeler Lake.**Call now if wind, hail, or a downed limb has opened up your roof or siding.** Decatur sits in the stretch of north Alabama storm spotters call Dixie Alley, where spring squall lines and summer microbursts roll off the Tennessee River corridor fast and often with little warning, and the roofs and siding of Morgan County take the brunt of it.
 
 ## Why Decatur Properties See Storm Damage So Often
 

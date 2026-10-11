@@ -32,7 +32,7 @@ The Monte Sano ridge line also creates a localized wind acceleration effect. Sto
 
 ## Our Storm Damage Restoration Process in Huntsville
 
-The first hour after a storm is about stopping the bleeding. That means emergency tarping of breached roofs, boarding windows and doors, and, if a tree has compromised the structure, shoring or bracing before anyone goes inside. We document everything with photos and measurements before a single piece of debris is moved, because that documentation is what your insurance adjuster needs to write an accurate estimate.
+The first hour after a storm is about stopping the bleeding. That means tarping of breached roofs, boarding windows and doors, and, if a tree has compromised the structure, shoring or bracing before anyone goes inside. We document everything with photos and measurements before a single piece of debris is moved, because that documentation is what your insurance adjuster needs to write an accurate estimate.
 
 Once the property is secured, we move into a systematic damage assessment: roofing and attic, exterior walls and openings, interior moisture readings, and any structural concerns flagged for an engineer if warranted. In older homes near Five Points or Downtown Huntsville, we pay particular attention to ceiling plaster and original hardwood floors, both of which can absorb significant moisture in the hours between the storm and our arrival, and both of which are worth saving rather than replacing if drying begins quickly enough.
 

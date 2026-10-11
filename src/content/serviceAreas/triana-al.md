@@ -31,7 +31,7 @@ Water damage in Triana often starts small, a slab leak, a washing machine hose, 
 
 Fire and smoke damage calls in this area typically involve either a kitchen fire in an older ranch-style home or an electrical fire tied to aging wiring. Our scope covers soot and odor removal, content cleaning, and the structural repairs needed to get a home back to a livable condition.
 
-Storm damage work usually follows wind and hail events that hit roofing, siding, and fencing hardest. We handle emergency tarping to stop ongoing water intrusion, then move into full roof and structural repair once the weather clears.
+Storm damage work usually follows wind and hail events that hit roofing, siding, and fencing hardest. We handle tarping to stop ongoing water intrusion, then move into full roof and structural repair once the weather clears.
 
 Reconstruction and general contracting round out the work on almost every restoration job: replacing drywall, flooring, cabinetry, and trim once the drying and demolition phase is finished, so the property owner isn't managing a second contractor for the rebuild.
 
