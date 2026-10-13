@@ -32,7 +32,7 @@ The practical difference between standards-based work and improvised work usuall
 
 Take water damage as an example. The S500 standard specifies psychrometric targets, the relationship between temperature, humidity, and airflow, that a structure needs to reach before it's considered dry. A crew working by feel might pull wet carpet, run a couple of box fans, and call it done. A crew working to the S500 will take moisture readings in the wall cavity, calculate the number of air movers and dehumidifiers needed for the square footage and material type, and document daily readings until the structure hits its drying goal. If it doesn't dry properly, mold can colonize porous materials within 24 to 72 hours of initial saturation, and you won't see or smell it until it's well established behind the drywall.
 
-The same logic applies to [mold remediation](/mold-remediation). The S520 standard requires containment barriers, negative air pressure, and specific clearance testing before a remediation is considered complete. Without those steps, disturbing mold during cleanup can spread spores to unaffected rooms. With them, you have documentation that the work met an independent standard, documentation your insurance company and any future buyer of your home can actually evaluate.
+The same logic applies to [mold remediation](/services/mold-remediation/). The S520 standard requires containment barriers, negative air pressure, and specific clearance testing before a remediation is considered complete. Without those steps, disturbing mold during cleanup can spread spores to unaffected rooms. With them, you have documentation that the work met an independent standard, documentation your insurance company and any future buyer of your home can actually evaluate.
 
 ## How to Vet a Contractor (Takes About 90 Seconds)
 
@@ -50,7 +50,7 @@ A legitimate company will hand you this information without hesitation. If you g
 
 This is worth saying plainly: process is a floor, not a ceiling.
 
-A technician can follow a checklist and still make poor judgment calls, misread a moisture meter, or rush a job. Documentation tells you the work was measured; it doesn't tell you the people were careful, communicative, or honest about scope. That's why you should also check reviews specifically for how a company handled complications, a hidden pipe leak that turned out to be bigger than expected, a mold job that required more containment than the initial estimate, a [fire damage restoration](/fire-damage-restoration) where the smoke had migrated into the HVAC system.
+A technician can follow a checklist and still make poor judgment calls, misread a moisture meter, or rush a job. Documentation tells you the work was measured; it doesn't tell you the people were careful, communicative, or honest about scope. That's why you should also check reviews specifically for how a company handled complications, a hidden pipe leak that turned out to be bigger than expected, a mold job that required more containment than the initial estimate, a fire damage restoration where the smoke had migrated into the HVAC system.
 
 Licensure and insurance are the non-negotiables underneath all of it. Restoration work that involves reconstruction, replacing drywall, flooring, cabinetry, falls under Alabama's contractor licensing requirements, and a company that isn't licensed for the reconstruction phase may hand your job off to a subcontractor you never vetted.
 
@@ -62,7 +62,7 @@ Contractors who work to the published standards document their jobs in formats a
 
 Undocumented work creates gaps. If a contractor didn't take baseline moisture readings, there's no way to prove the structure was wet enough to warrant the equipment they billed for. If they didn't document containment on a mold job, there's no evidence the work met any standard at all. Those gaps can result in claim denials or reduced payouts, and they leave you without recourse if the problem comes back.
 
-For [water damage restoration](/water-damage-restoration) specifically, the difference between a well-documented job performed to the S500 and a poorly documented improvised one can be thousands of dollars in disputed insurance reimbursement.
+For [water damage restoration](/services/water-damage-restoration/) specifically, the difference between a well-documented job performed to the S500 and a poorly documented improvised one can be thousands of dollars in disputed insurance reimbursement.
 
 ## The Short Version, If You're in a Hurry
 

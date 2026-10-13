@@ -78,4 +78,4 @@ Once a professional crew is on-site and extraction is underway, most commercial 
 
 Commercial water damage is disruptive by nature, but the difference between a two-week closure and a two-day partial shutdown often comes down to how quickly the right response begins. If you're still in the research phase, trying to understand what happened, what your insurance covers, or what a restoration process actually looks like, that's exactly the right place to start.
 
-When you're ready to talk through your specific situation, Davis Construction Contractors is available for commercial assessments in Madison, AL and the surrounding area. Call (256) 771-0326 or reach out through the [commercial restoration page](/commercial-restoration) to connect with a technician who can walk through the scope with you.
+When you're ready to talk through your specific situation, Davis Construction Contractors is available for commercial assessments in Madison, AL and the surrounding area. Call (256) 771-0326 or reach out through the commercial restoration page to connect with a technician who can walk through the scope with you.
