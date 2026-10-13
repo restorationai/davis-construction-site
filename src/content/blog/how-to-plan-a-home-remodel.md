@@ -77,7 +77,7 @@ The right contractor for a remodel is licensed, insured, experienced in your spe
 
 Here is a practical vetting checklist:
 
-- **Verify their license**. Alabama requires general contractors working on projects over $10,000 to be licensed through the Alabama Licensing Board for General Contractors. You can verify status on the board's website.
+- **Verify their license**. In Alabama, residential building and remodeling work over $10,000 requires a license from the Home Builders Licensure Board, and projects of $50,000 or more require a license from the Alabama Licensing Board for General Contractors. You can verify status on the board's website.
 - **Confirm insurance**. Ask for a certificate of insurance showing general liability and workers' compensation. Call the insurer to confirm it is current.
 - **Check references for similar work**. A contractor who is excellent at water damage restoration may not be the right fit for a full kitchen remodel. Ask for references specifically from remodel projects, not just any past job.
 - **Get at least three bids**. Compare them line by line against your scope. If one bid is dramatically lower, find out why before assuming it is the best deal.
