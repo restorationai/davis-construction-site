@@ -18,7 +18,7 @@ rendered: true
 ---
 ## Terms of Service
 
-*Last updated: June 2025*
+*Last updated: October 2026*
 
 These terms apply to your use of davisconstructioncontractors.com and any services provided by Davis Construction Inc. By using this site or requesting services, you agree to the following.
 
@@ -45,6 +45,19 @@ Davis Construction Inc. operates as a licensed contractor under Alabama state re
 ## Insurance Coordination
 
 When you authorize us to communicate with your insurance carrier, we act solely as a service provider coordinating documentation and scope information. We do not provide insurance advice, and we make no guarantees regarding claim approval, payout amounts, or carrier timelines. Final coverage decisions rest with your insurance company.
+
+## SMS / Text Messaging Terms
+
+Davis Construction Inc. offers text messaging to customers and prospective customers who opt in. By providing your mobile number and agreeing to receive texts (for example, by checking the text consent box on our estimate request form, or by giving us your consent verbally or in writing), you agree to these terms.
+
+- **What we send:** messages about your inquiry or project, such as estimate and appointment scheduling, reminders, project updates, follow-ups after the job, and requests to review our work. If you opt in to marketing texts, we may also send occasional promotional messages about our services.
+- **Message frequency:** message frequency varies based on your project and interactions with us.
+- **Cost:** message and data rates may apply, according to your mobile carrier's plan.
+- **Opting out:** reply STOP to any message to stop receiving texts. You will receive one final message confirming you have been unsubscribed, and no further texts will be sent unless you opt in again.
+- **Help:** reply HELP to any message for help, or contact us at (256) 771-0326 or davisheath09@gmail.com.
+- **Not a condition of purchase:** consent to receive texts is not required to purchase any service from us.
+- **Carriers:** mobile carriers are not liable for delayed or undelivered messages.
+- **Privacy:** we never share or sell your mobile number or text messaging opt-in data and consent with third parties for their marketing purposes. See our [Privacy Policy](/privacy/) for details on how we handle your information.
 
 ## Dispute Resolution
 

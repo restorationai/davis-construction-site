@@ -30,9 +30,9 @@ On the technical side, our website uses basic analytics tools that collect anony
 
 ## How We Use Your Information
 
-The information you share is used for one purpose: helping you with your project. That means responding to your inquiry, scheduling an on-site estimate, coordinating scope-of-work documentation, and, when you've authorized it, communicating with your insurance carrier on your behalf during the claims process.
+We use the information you share to help you with your project. That means responding to your inquiry, scheduling an on-site estimate, coordinating scope-of-work documentation, and, when you've authorized it, communicating with your insurance carrier on your behalf during the claims process.
 
-We do not use your contact information for unsolicited marketing. We do not sell, rent, or trade your personal data to any third party.
+With your consent, we may also use your contact information to send you marketing messages, including text messages, about our services. We only send marketing texts to people who have opted in, and you can opt out at any time (see Text Messaging below). We do not sell, rent, or trade your personal data to any third party.
 
 ## Insurance Coordination and Third-Party Sharing
 
@@ -42,7 +42,9 @@ Restoration work often involves insurance carriers, adjusters, and occasionally 
 
 ## Text Messaging
 
-If you give us your mobile number and agree to receive texts, Davis Construction Inc. may text you about your project: appointment and service updates, follow-ups after the job, and a request to review our work. Message frequency varies. Message and data rates may apply. Reply STOP at any time to stop receiving texts, or HELP for help. You can also reach us at (256) 771-0326. Consent to receive texts is not a condition of any purchase or service.
+If you give us your mobile number and agree to receive texts, Davis Construction Inc. may text you about your inquiry or project: estimate and appointment scheduling, reminders, service updates, follow-ups after the job, and a request to review our work. If you opt in to marketing texts, we may also send occasional promotional messages about our services. Message frequency varies. Message and data rates may apply. Reply STOP at any time to stop receiving texts, or HELP for help. You can also reach us at (256) 771-0326. Consent to receive texts is not a condition of any purchase or service. Full texting terms are in our [Terms of Service](/terms/).
+
+We collect your mobile number and your text opt-in consent (including when and how you gave it) only to send the messages you agreed to receive and to honor opt-out requests.
 
 ## Data Retention
 
