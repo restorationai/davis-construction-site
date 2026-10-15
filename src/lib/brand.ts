@@ -67,9 +67,16 @@ export const brand = {
   sameAsUrls: ["https://davisconstructioncontractors.com/about/", "https://maps.google.com/maps?cid=13051415617823897774", "https://www.facebook.com/davisconstructionnc/", "https://homeguide.com/al/madison/water-damage-restoration/davis-construction-contractors-IqEW3eGSB"] as string[],
   // GBP rating fields — synced from the live Google Business Profile by
   // scripts/sync_brand_reviews.py; never hand-edited (real ratings only).
-  gbpRatingValue: "",
-  gbpReviewCount: "",
-  gbpReviews: [] as { author: string; rating: number; text: string; when: string }[],
+  gbpRatingValue: "4.1",
+  gbpReviewCount: "55",
+  gbpReviews: [
+    { author: "Mary", rating: 5, text: "We had an amazing experience with Davis Construction Inc. remodeling our bathroom and bedroom, and we could not be happier with the results! We HIGHLY, HIGHLY recommend them and will absolutely use them again for any future projects. They did exactly what they said they would do, when they said…", when: "September 2026" },
+    { author: "Mike", rating: 5, text: "Polite and professional. Attention to detail and ensures his team does top notch workmanship. Easy recommendation!", when: "September 2026" },
+    { author: "Tim", rating: 5, text: "Overall experience was very good, we had a new roof put on. Quality of work looks good and clean was great. Would recommend", when: "September 2026" },
+    { author: "Steven", rating: 5, text: "My interface with Heath Davis construction was with Troy Davis. I hired Davis construction to renovate my kitchen. This job consisted of complete demolition to include tile flooring, movement of walls, adding a laminated support beam, and coordination of all contract activities for electrical…", when: "August 2026" },
+    { author: "Joey", rating: 4, text: "Never used them personally but have good things about their work", when: "August 2026" },
+    { author: "Joey", rating: 5, text: "Haven’t used them personally but have heard good things about their work", when: "August 2026" },
+  ] as { author: string; rating: number; text: string; when: string }[],
   tagline: "Construction and remodeling services in Madison, AL.",
   ctaLabel: "Call for a Free Estimate",
   // Vertical trade-identity copy — resolved at scaffold time from
