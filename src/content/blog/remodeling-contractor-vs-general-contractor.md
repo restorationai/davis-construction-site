@@ -94,7 +94,7 @@ A few other things worth checking:
 - **Written scope**: Whether you hire a remodeler or a GC, get a detailed written scope of work before any money changes hands. Vague contracts are where disputes start.
 - **Permit responsibility**: Ask who pulls the permits. On most residential renovation projects in Alabama, the contractor should pull permits, not the homeowner. A contractor who asks you to pull your own permits is shifting liability onto you.
 
-Davis Construction Contractors handles both remodeling and general contracting work, which means a kitchen renovation and a structural addition can be managed under one contract without handing off mid-project. If you're sorting out which type of project you have and who should handle it, [reach out for a consultation](/contact/).
+Davis Construction Contractors handles both [remodeling](/services/home-remodeling/) and general contracting work, which means a kitchen renovation and a structural addition can be managed under one contract without handing off mid-project. If you're sorting out which type of project you have and who should handle it, [reach out for a consultation](/contact/).
 
 ---
 

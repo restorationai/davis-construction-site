@@ -86,7 +86,7 @@ Also ask: when does the permit application get submitted? What's the current rev
 
 If you're comparing bids and one contractor's timeline is significantly shorter than the others, ask specifically what's different about their sequencing. Sometimes a faster timeline reflects genuine efficiency. More often it reflects an optimistic assumption about permit turnaround or material delivery that won't hold up.
 
-Davis Construction Contractors handles remodeling projects across Madison and the surrounding area, including full kitchen and bathroom remodels, primary suite additions, and whole-house renovations. If you're in the planning stage and want a realistic scope and timeline for your project, [reach out to schedule a consultation](/services/home-remodeling/).
+Davis Construction Contractors handles [remodeling projects](/services/home-remodeling/) across Madison and the surrounding area, including full kitchen and bathroom remodels, primary suite additions, and whole-house renovations. If you're in the planning stage and want a realistic scope and timeline for your project, [reach out to schedule a consultation](/contact/).
 
 ---
 

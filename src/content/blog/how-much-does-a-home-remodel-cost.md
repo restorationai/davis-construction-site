@@ -124,7 +124,7 @@ When comparing bids:
 
 For a detailed look at how contractor fees and markup work within these numbers, see the post on [how much a general contractor costs in Alabama](/blog/how-much-does-a-general-contractor-cost/), it covers the markup structure and what you're actually paying for when you hire a GC to manage the project.
 
-Davis Construction Contractors has been handling remodels across Madison, Huntsville, and Athens since 2008. If you're planning a kitchen, bathroom, or whole-home renovation and want an itemized estimate before you commit, reach out to schedule a walkthrough.
+Davis Construction Contractors has been handling remodels across Madison, Huntsville, and Athens since 2008. If you're planning a kitchen, bathroom, or whole-home renovation and want an itemized estimate before you commit, [reach out to schedule a walkthrough](/contact/).
 
 ---
 

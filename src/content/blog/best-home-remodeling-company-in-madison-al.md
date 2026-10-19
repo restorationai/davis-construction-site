@@ -102,13 +102,13 @@ For a full checklist, see our guide on [how to choose a general contractor](/blo
 
 ## How Does Davis Construction Contractors Compare?
 
-Davis Construction Contractors has been handling home remodeling in Madison since 2008. That's 18 years of working on Madison's housing stock, including the older brick ranches near Old Town Madison and the newer construction in Bradford Creek and Redstone Village. The company is family-owned, licensed and insured, and handles the full scope of a remodel in-house: framing, roofing, siding, painting, decks, and interior work.
+Davis Construction Contractors has been handling [home remodeling](/services/home-remodeling/) in Madison since 2008. That's 18 years of working on Madison's housing stock, including the older brick ranches near Old Town Madison and the newer construction in Bradford Creek and Redstone Village. The company is family-owned, licensed and insured, and handles the full scope of a remodel in-house: framing, roofing, siding, painting, decks, and interior work.
 
 Because Davis handles multiple trades, a homeowner who needs a kitchen remodel plus new exterior siding plus a deck doesn't have to coordinate three separate contractors. That matters when you're managing a project budget and a timeline.
 
 For projects that have involved water damage or mold behind the walls (common in older Madison homes where moisture has worked its way in over decades), Davis also handles [water damage restoration](/services/water-damage-restoration/) and [mold remediation](/services/mold-remediation/) in-house, so surprises mid-remodel don't require stopping work and calling a separate company.
 
-To talk through your project scope and get a realistic estimate, call Davis Construction Contractors at (256) 771-0326, Monday through Friday, 8:00 AM to 5:00 PM.
+To talk through your project scope and get a realistic estimate, call Davis Construction Contractors at (256) 771-0326, Monday through Friday, 8:00 AM to 5:00 PM, or [send a request online](/contact/).
 
 ---
 
