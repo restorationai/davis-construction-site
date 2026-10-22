@@ -139,8 +139,14 @@ const {
         <label class="flex items-start gap-2.5 text-sm font-normal normal-case tracking-normal text-white/70 cursor-pointer">
           <input type="checkbox" name="sms_consent" value="yes"
             class="mt-1 h-4 w-4 rounded border-white/30 bg-white/5 accent-primary-600" />
-          <span>It's OK to text me about my request. Message &amp; data rates may apply; reply STOP to opt out.</span>
+          <span>Yes, text me about my request. By checking this box, I agree to receive text messages from Heath Davis Construction Company, Inc. (Davis Construction Contractors) at the number above about my estimate, scheduling and project updates. Message frequency varies. Message and data rates may apply. Reply STOP to opt out or HELP for help. Consent is not required to get an estimate.</span>
         </label>
+        {/* A2P 10DLC review (Heath 2026-10-22): Terms + Privacy links directly under the consent text. */}
+        <p class="-mt-2 pl-[26px] text-sm font-normal normal-case tracking-normal text-white/70">
+          <a href="/terms/" class="text-white underline hover:text-primary-200">Terms of Service</a>
+          <span aria-hidden="true"> · </span>
+          <a href="/privacy/" class="text-white underline hover:text-primary-200">Privacy Policy</a>
+        </p>
 
         <button
           type="submit"

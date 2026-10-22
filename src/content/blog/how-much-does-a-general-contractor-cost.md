@@ -110,7 +110,7 @@ A few things to check on any bid:
 
 **What's the payment schedule?** A standard schedule ties payments to milestones, deposit at signing, draw at rough-in complete, draw at drywall, final payment at punch-list completion. Avoid any GC who wants more than 30–35% upfront on a remodel.
 
-**Is the GC licensed and insured?** In Alabama, residential building and remodeling work over $10,000 requires a license from the Home Builders Licensure Board, and projects of $50,000 or more require a license from the [Alabama Licensing Board for General Contractors](https://genconbd.alabama.gov/). Ask for the license number and verify it with the right board. Davis Construction Inc. is licensed and insured.
+**Is the GC licensed and insured?** In Alabama, residential building and remodeling work over $10,000 requires a license from the Home Builders Licensure Board, and projects of $50,000 or more require a license from the [Alabama Licensing Board for General Contractors](https://genconbd.alabama.gov/). Ask for the license number and verify it with the right board. Heath Davis Construction Company, Inc. (doing business as Davis Construction Contractors) is licensed and insured.
 
 **Do they pull their own permits?** A GC who asks you to pull the permit is shifting risk to you. Don't accept that arrangement.
 

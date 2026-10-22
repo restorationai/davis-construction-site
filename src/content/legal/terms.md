@@ -20,11 +20,11 @@ rendered: true
 
 *Last updated: October 2026*
 
-These terms apply to your use of davisconstructioncontractors.com and any services provided by Davis Construction Inc. By using this site or requesting services, you agree to the following.
+These terms apply to your use of davisconstructioncontractors.com and any services provided by Heath Davis Construction Company, Inc. (doing business as Davis Construction Contractors) By using this site or requesting services, you agree to the following.
 
 ## Service Area
 
-Davis Construction Inc. is based in Madison, AL and primarily serves the greater Madison County area and surrounding North Alabama communities. We reserve the right to decline service requests outside our operational area or where project scope falls outside our licensed capabilities. Contact us directly at (256) 771-0326 if you're unsure whether we serve your location.
+Heath Davis Construction Company, Inc. (doing business as Davis Construction Contractors) is based in Madison, AL and primarily serves the greater Madison County area and surrounding North Alabama communities. We reserve the right to decline service requests outside our operational area or where project scope falls outside our licensed capabilities. Contact us directly at (256) 771-0326 if you're unsure whether we serve your location.
 
 ## Estimates and Work Authorization
 
@@ -32,7 +32,7 @@ Any estimate, quote, or proposal provided, whether delivered in person, by phone
 
 ## Payment Terms
 
-Payment expectations are outlined in the work-authorization form for each project. Davis Construction Inc. accepts payment by check, major credit cards, and electronic transfer unless otherwise agreed in writing. For insurance-related work, we coordinate directly with your carrier when authorized, but the property owner remains responsible for any deductible, uncovered portions, or amounts not paid by the insurer within the agreed timeframe.
+Payment expectations are outlined in the work-authorization form for each project. Heath Davis Construction Company, Inc. (doing business as Davis Construction Contractors) accepts payment by check, major credit cards, and electronic transfer unless otherwise agreed in writing. For insurance-related work, we coordinate directly with your carrier when authorized, but the property owner remains responsible for any deductible, uncovered portions, or amounts not paid by the insurer within the agreed timeframe.
 
 ## Scope of Work and Changes
 
@@ -40,7 +40,7 @@ The scope of any restoration or construction project is defined by the signed wo
 
 ## Liability and Licensing
 
-Davis Construction Inc. operates as a licensed contractor under Alabama state regulations and carries appropriate general liability insurance. Our liability is limited to the direct scope of services performed under a signed work-authorization agreement. We are not responsible for pre-existing conditions, concealed damage discovered after work begins (unless addressed through a change order), or losses arising from circumstances outside our control. Nothing in these terms limits rights you may have under Alabama law.
+Heath Davis Construction Company, Inc. (doing business as Davis Construction Contractors) operates as a licensed contractor under Alabama state regulations and carries appropriate general liability insurance. Our liability is limited to the direct scope of services performed under a signed work-authorization agreement. We are not responsible for pre-existing conditions, concealed damage discovered after work begins (unless addressed through a change order), or losses arising from circumstances outside our control. Nothing in these terms limits rights you may have under Alabama law.
 
 ## Insurance Coordination
 
@@ -48,7 +48,7 @@ When you authorize us to communicate with your insurance carrier, we act solely 
 
 ## SMS / Text Messaging Terms
 
-Davis Construction Inc. offers text messaging to customers and prospective customers who opt in. By providing your mobile number and agreeing to receive texts (for example, by checking the text consent box on our estimate request form, or by giving us your consent verbally or in writing), you agree to these terms.
+Heath Davis Construction Company, Inc. (doing business as Davis Construction Contractors) offers text messaging to customers and prospective customers who opt in. By providing your mobile number and agreeing to receive texts (for example, by checking the text consent box on our estimate request form, or by giving us your consent verbally or in writing), you agree to these terms.
 
 - **What we send:** messages about your inquiry or project, such as estimate and appointment scheduling, reminders, project updates, follow-ups after the job, and requests to review our work. If you opt in to marketing texts, we may also send occasional promotional messages about our services.
 - **Message frequency:** message frequency varies based on your project and interactions with us.

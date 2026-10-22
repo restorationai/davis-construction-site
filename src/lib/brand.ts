@@ -6,13 +6,13 @@ export const brand = {
   slug: "davis-construction",
   displayName: "Davis Construction Contractors",
   shortName: "Davis Construction Contractors",
-  legalName: "Davis Construction Inc.",
+  legalName: "Heath Davis Construction Company, Inc.",
   // Registered DBA / trade name — filled by rename_site_sync.py the moment
   // the state approves the client's DBA filing (empty until then). When set,
   // the footer carries the "[legal] doing business as [DBA]" line and schema
   // declares it as the business name, so Google/BrightLocal find the new
   // name corroborated on the site before and during the GBP rename.
-  dbaName: "",
+  dbaName: "Davis Construction Contractors",
   domain: "davisconstructioncontractors.com",
   canonicalUrl: "https://davisconstructioncontractors.com",
   phone: "(256) 771-0326",

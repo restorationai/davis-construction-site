@@ -327,7 +327,7 @@ const displayPhoneRaw = (brand as any).adsTrackingPhoneRaw ?? brand.phoneRaw;
       </div>
       <div class="py-6 px-6 text-xs text-white/40" style={`background:${NAVY_DARK}`}>
         <div class="container-wide flex flex-col sm:flex-row justify-between items-center gap-2">
-          <span>© {new Date().getFullYear()} {brand.legalName ?? brand.displayName}. All rights reserved.</span>
+          <span>© {new Date().getFullYear()} {brand.legalName ?? brand.displayName}{brand.dbaName ? ` (doing business as ${brand.dbaName})` : ""}. All rights reserved.</span>
           <div class="flex gap-4">
             <a href="/privacy/" class="text-white/40 hover:text-white/70 no-underline">Privacy Policy</a>
             <a href="/terms/" class="text-white/40 hover:text-white/70 no-underline">Terms of Use</a>

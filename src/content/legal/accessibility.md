@@ -18,7 +18,7 @@ rendered: true
 ---
 ## Our Commitment to Accessibility
 
-Davis Construction Inc. is committed to making davisconstructioncontractors.com usable by everyone, including people who rely on assistive technologies such as screen readers, keyboard navigation, or display magnification. We believe that access to information about our services, whether you're dealing with water damage at 2 a.m. or trying to schedule a mold inspection, should not depend on a visitor's physical or cognitive abilities.
+Heath Davis Construction Company, Inc. (doing business as Davis Construction Contractors) is committed to making davisconstructioncontractors.com usable by everyone, including people who rely on assistive technologies such as screen readers, keyboard navigation, or display magnification. We believe that access to information about our services, whether you're dealing with water damage at 2 a.m. or trying to schedule a mold inspection, should not depend on a visitor's physical or cognitive abilities.
 
 ## What We're Working Toward
 
@@ -49,4 +49,4 @@ When you reach out, please describe the page or feature you were trying to use a
 
 ## Ongoing Effort
 
-Accessibility is not a one-time checklist, it requires continued attention as the site is updated and as standards evolve. Davis Construction Inc. reviews site content periodically with accessibility in mind and welcomes feedback from visitors at any time. Our goal is straightforward: if you need to reach us or understand what we do, nothing about this website should stand in your way.
+Accessibility is not a one-time checklist, it requires continued attention as the site is updated and as standards evolve. Heath Davis Construction Company, Inc. (doing business as Davis Construction Contractors) reviews site content periodically with accessibility in mind and welcomes feedback from visitors at any time. Our goal is straightforward: if you need to reach us or understand what we do, nothing about this website should stand in your way.

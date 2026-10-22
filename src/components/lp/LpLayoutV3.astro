@@ -390,7 +390,7 @@ const displayPhoneRaw = (brand as any).adsTrackingPhoneRaw ?? brand.phoneRaw;
           </div>
         </div>
         <div class="border-t border-gray-100 pt-6 flex flex-col sm:flex-row justify-between items-center gap-2 text-xs text-gray-400">
-          <span>© {new Date().getFullYear()} {brand.legalName ?? brand.displayName}. All rights reserved.</span>
+          <span>© {new Date().getFullYear()} {brand.legalName ?? brand.displayName}{brand.dbaName ? ` (doing business as ${brand.dbaName})` : ""}. All rights reserved.</span>
           <div class="flex gap-4">
             <a href="/privacy/" class="text-gray-400 hover:text-gray-600 no-underline">Privacy Policy</a>
             <a href="/terms/" class="text-gray-400 hover:text-gray-600 no-underline">Terms of Condition</a>

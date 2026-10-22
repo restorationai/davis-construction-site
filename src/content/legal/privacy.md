@@ -18,7 +18,7 @@ rendered: true
 ---
 ## What This Policy Covers
 
-This Privacy Policy explains how Davis Construction Inc. collects, uses, and protects information you share when you visit davisconstructioncontractors.com or contact us directly. It applies to all visitors, whether you're a homeowner dealing with water damage at 2 a.m. or a property manager scheduling a routine estimate.
+This Privacy Policy explains how Heath Davis Construction Company, Inc. (doing business as Davis Construction Contractors) collects, uses, and protects information you share when you visit davisconstructioncontractors.com or contact us directly. It applies to all visitors, whether you're a homeowner dealing with water damage at 2 a.m. or a property manager scheduling a routine estimate.
 
 If you have questions about anything here, reach us directly at davisheath09@gmail.com or (256) 771-0326.
 
@@ -38,11 +38,11 @@ With your consent, we may also use your contact information to send you marketin
 
 Restoration work often involves insurance carriers, adjusters, and occasionally subcontractors. We share your information with these parties only when you've given us explicit authorization, typically through a signed work-authorization or direction-to-pay form. We do not share your data with any outside party without that authorization.
 
-**SMS and mobile information is never shared.** No mobile information, phone numbers collected for SMS, or text messaging originator opt-in data and consent will be shared with, sold to, or transferred to any third parties, affiliates, or partner companies for marketing or promotional purposes under any circumstances. SMS opt-in consent is used solely by Davis Construction Inc. to communicate with you.
+**SMS and mobile information is never shared.** No mobile information, phone numbers collected for SMS, or text messaging originator opt-in data and consent will be shared with, sold to, or transferred to any third parties, affiliates, or partner companies for marketing or promotional purposes under any circumstances. SMS opt-in consent is used solely by Heath Davis Construction Company, Inc. (doing business as Davis Construction Contractors) to communicate with you.
 
 ## Text Messaging
 
-If you give us your mobile number and agree to receive texts, Davis Construction Inc. may text you about your inquiry or project: estimate and appointment scheduling, reminders, service updates, follow-ups after the job, and a request to review our work. If you opt in to marketing texts, we may also send occasional promotional messages about our services. Message frequency varies. Message and data rates may apply. Reply STOP at any time to stop receiving texts, or HELP for help. You can also reach us at (256) 771-0326. Consent to receive texts is not a condition of any purchase or service. Full texting terms are in our [Terms of Service](/terms/).
+If you give us your mobile number and agree to receive texts, Heath Davis Construction Company, Inc. (doing business as Davis Construction Contractors) may text you about your inquiry or project: estimate and appointment scheduling, reminders, service updates, follow-ups after the job, and a request to review our work. If you opt in to marketing texts, we may also send occasional promotional messages about our services. Message frequency varies. Message and data rates may apply. Reply STOP at any time to stop receiving texts, or HELP for help. You can also reach us at (256) 771-0326. Consent to receive texts is not a condition of any purchase or service. Full texting terms are in our [Terms of Service](/terms/).
 
 We collect your mobile number and your text opt-in consent (including when and how you gave it) only to send the messages you agreed to receive and to honor opt-out requests.
 
@@ -60,7 +60,7 @@ While GDPR applies primarily to businesses operating within the European Union o
 
 If something in this policy is unclear, or if you believe your information has been handled incorrectly, please contact us:
 
-**Davis Construction Inc.**  
+**Heath Davis Construction Company, Inc. (doing business as Davis Construction Contractors)**  
 Madison, AL  
 Phone: (256) 771-0326  
 Email: davisheath09@gmail.com
