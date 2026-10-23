@@ -25,8 +25,11 @@ export const brand = {
   // keep the canonical NAP number above — humans dial the tracked line,
   // Google sees consistent NAP. Empty = feature off (default at scaffold;
   // filled by the call-tracking provisioning step).
-  trackingPhone: "(256) 257-0752",
-  trackingPhoneRaw: "+12562570752",
+  // 2026-10-23: emptied at Heath's request (10-22 email, after one
+  // pushback): visitors see his own (256) 771-0326. The 257-0752 line
+  // stays provisioned and keeps forwarding to 771-0326.
+  trackingPhone: "",
+  trackingPhoneRaw: "",
   email: "davisheath09@gmail.com",
   hours: "Monday–Friday, 8:00 AM – 5:00 PM",
   foundedYear: "2008",
