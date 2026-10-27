@@ -46,9 +46,11 @@ const FROM_EMAIL = "no-reply@restorationai.io"; // verified SendGrid sender (sam
 // Every submission is also POSTed here (Heath/Davis 2026-10-27: "Please point
 // the estimate form on davisconstructioncontractors.com to it (POST, JSON) so
 // every submission comes straight into our HighLevel, and include the name,
-// phone, email, address and message fields.").
+// phone, email, address and message fields."). Heath replaced the hook later
+// the same day: "The webhook link I sent earlier was replaced on our end ...
+// Please use this one instead".
 const LEAD_WEBHOOKS = [
-  "https://services.leadconnectorhq.com/hooks/arNSbYDbcPM528nO1wWp/webhook-trigger/e4375310-ba06-4b13-970d-10568aaeebd4",
+  "https://services.leadconnectorhq.com/hooks/arNSbYDbcPM528nO1wWp/webhook-trigger/ba4b5d83-97e4-41de-bc29-5029d900ac45",
 ];
 const MIN_RENDER_MS = 3000;
 
