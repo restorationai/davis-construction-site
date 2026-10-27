@@ -43,6 +43,13 @@ type Env = {
 };
 
 const FROM_EMAIL = "no-reply@restorationai.io"; // verified SendGrid sender (same as rank-ai scripts)
+// Every submission is also POSTed here (Heath/Davis 2026-10-27: "Please point
+// the estimate form on davisconstructioncontractors.com to it (POST, JSON) so
+// every submission comes straight into our HighLevel, and include the name,
+// phone, email, address and message fields.").
+const LEAD_WEBHOOKS = [
+  "https://services.leadconnectorhq.com/hooks/arNSbYDbcPM528nO1wWp/webhook-trigger/e4375310-ba06-4b13-970d-10568aaeebd4",
+];
 const MIN_RENDER_MS = 3000;
 
 const json = (body: unknown, status = 200) =>
@@ -282,6 +289,29 @@ async function sendProspectSms(env: Env, lead: Record<string, string>): Promise<
   return r.ok ? "sent" : `error:${r.err}`;
 }
 
+async function postWebhooks(lead: Record<string, string>): Promise<string> {
+  if (!LEAD_WEBHOOKS.length) return "skipped:none";
+  const [first, ...rest] = (lead.name || "").split(" ");
+  // The form asks for "City or ZIP", not a street address, so `address`
+  // carries that field.
+  const payload = {
+    name: lead.name, first_name: first || "", last_name: rest.join(" "),
+    phone: lead.phone, email: lead.email || "", address: lead.city, city: lead.city,
+    message: lead.description || "", lead_source: lead.lead_source,
+    attribution: lead.attribution || "", sms_consent: lead.sms_consent === "yes",
+    website: brand.domain, form: "free-estimate", submitted_at: new Date().toISOString(),
+  };
+  const results = await Promise.all(LEAD_WEBHOOKS.map((url) =>
+    fetch(url, {
+      method: "POST",
+      headers: { "Content-Type": "application/json" },
+      body: JSON.stringify(payload),
+    }).then((r) => r.ok ? "sent" : `error:${r.status}`)
+      .catch((e) => `error:${String(e).slice(0, 120)}`)));
+  const sent = results.filter((r) => r === "sent").length;
+  return sent === results.length ? `sent:${sent}` : `${sent}/${results.length}:${results.find((r) => r !== "sent")}`;
+}
+
 async function insertContact(env: Env, lead: Record<string, string>): Promise<string> {
   if (!env.SUPABASE_URL || !env.SUPABASE_SERVICE_ROLE_KEY) return "skipped:no-supabase-env";
   const row: Record<string, unknown> = {
@@ -377,12 +407,13 @@ export const onRequestPost: PagesFunction<Env> = async ({ request, env }) => {
 
   const toEmail = await resolveRecipient(env).catch(() => (brand.email || "").trim());
 
-  const [email, sms, db, prospectSms, autoReply] = await Promise.all([
+  const [email, sms, db, prospectSms, autoReply, webhook] = await Promise.all([
     sendEmail(env, lead, toEmail).catch((e) => `error:${String(e).slice(0, 200)}`),
     sendSms(env, lead).catch((e) => `error:${String(e).slice(0, 200)}`),
     insertContact(env, lead).catch((e) => `error:${String(e).slice(0, 200)}`),
     sendProspectSms(env, lead).catch((e) => `error:${String(e).slice(0, 200)}`),
     sendLeadAutoReply(env, lead).catch((e) => `error:${String(e).slice(0, 200)}`),
+    postWebhooks(lead).catch((e) => `error:${String(e).slice(0, 200)}`),
   ]);
 
   // EVERY submission is its own event row (Santino 2026-09-10), now
@@ -405,14 +436,15 @@ export const onRequestPost: PagesFunction<Env> = async ({ request, env }) => {
                          sms: { status: sms },
                          prospect_sms: { status: prospectSms,
                                          consent: lead.sms_consent === "yes" },
-                         auto_reply: { status: autoReply } },
+                         auto_reply: { status: autoReply },
+                         webhook: { status: webhook } },
       }),
     }).catch(() => null);
   }
 
   // Email is the primary delivery channel; SMS + DB are best-effort extras.
   const ok = email === "sent";
-  const body: Record<string, unknown> = { ok, email, sms, db, prospect_sms: prospectSms, auto_reply: autoReply };
+  const body: Record<string, unknown> = { ok, email, sms, db, prospect_sms: prospectSms, auto_reply: autoReply, webhook };
   // Diagnostic only: expose the resolved recipient on explicit TEST submissions
   // so re-tests can verify routing. Never included on real leads.
   if (lead.description.includes("TEST")) body.to = toEmail;
