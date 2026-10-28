@@ -13,6 +13,7 @@
 // above the form on both variants.
 import { brand } from "~/lib/brand";
 import { Phone } from "@lucide/astro";
+import { SMS_CONSENT_LEAD, SMS_TERMS_URL, SMS_PRIVACY_URL } from "~/lib/smsConsent";
 
 type Props = {
   /** Compact variant for /emergency/ — tighter spacing, shorter copy. */
@@ -48,6 +49,11 @@ const {
         <label>Company website <input type="text" name="company_website" tabindex="-1" autocomplete="off" /></label>
       </div>
       <input type="hidden" name="fets" value="" />
+      <label class="flex items-start gap-2 text-xs text-white/70 cursor-pointer">
+        <input type="checkbox" name="sms_consent" value="yes"
+          class="mt-0.5 h-4 w-4 shrink-0 rounded border-white/30 bg-white/5 accent-primary-600" />
+        <span>{SMS_CONSENT_LEAD} Terms: <a href={SMS_TERMS_URL} class="text-white underline break-all">{SMS_TERMS_URL}</a> Privacy: <a href={SMS_PRIVACY_URL} class="text-white underline break-all">{SMS_PRIVACY_URL}</a></span>
+      </label>
       <button type="submit" class="inline-flex items-center justify-center font-bold px-6 py-3 rounded-md transition-all text-base shadow-lg bg-primary-600 text-white hover:bg-primary-700 disabled:opacity-60 disabled:cursor-not-allowed">
         Get My Free Estimate
       </button>
@@ -135,18 +141,13 @@ const {
 
         {/* Prospect-SMS consent (C9, Bob/RT Olson 2026-09-15): unchecked by
             default — the checked state is the recorded consent for the one
-            confirmation text; audit trail rides the submission row. */}
+            confirmation text; audit trail rides the submission row.
+            Wording + inline Terms/Privacy: Heath 2026-10-28 (src/lib/smsConsent.ts). */}
         <label class="flex items-start gap-2.5 text-sm font-normal normal-case tracking-normal text-white/70 cursor-pointer">
           <input type="checkbox" name="sms_consent" value="yes"
             class="mt-1 h-4 w-4 rounded border-white/30 bg-white/5 accent-primary-600" />
-          <span>Yes, text me about my request. By checking this box, I agree to receive text messages from Heath Davis Construction Company, Inc. (Davis Construction Contractors) at the number above about my estimate, scheduling and project updates. Message frequency varies. Message and data rates may apply. Reply STOP to opt out or HELP for help. Consent is not required to get an estimate.</span>
+          <span>{SMS_CONSENT_LEAD} Terms: <a href={SMS_TERMS_URL} class="text-white underline break-all hover:text-primary-200">{SMS_TERMS_URL}</a> Privacy: <a href={SMS_PRIVACY_URL} class="text-white underline break-all hover:text-primary-200">{SMS_PRIVACY_URL}</a></span>
         </label>
-        {/* A2P 10DLC review (Heath 2026-10-22): Terms + Privacy links directly under the consent text. */}
-        <p class="-mt-2 pl-[26px] text-sm font-normal normal-case tracking-normal text-white/70">
-          <a href="/terms/" class="text-white underline hover:text-primary-200">Terms of Service</a>
-          <span aria-hidden="true"> · </span>
-          <a href="/privacy/" class="text-white underline hover:text-primary-200">Privacy Policy</a>
-        </p>
 
         <button
           type="submit"
@@ -252,6 +253,7 @@ const {
         } catch (err) {}
         if (document.referrer) data.referrer = document.referrer;
         data.landing_page = location.pathname;
+        data.page_url = location.href;
         try {
           window.dataLayer = window.dataLayer || [];
           window.dataLayer.push({ event: "lead_form_submit", lead_source: data.lead_source });

@@ -28,6 +28,7 @@
 // Brand identity (client email, phone, domain) is imported from the site's own
 // brand.ts so this file is identical across client sites.
 import { brand } from "../../src/lib/brand";
+import { SMS_CONSENT_TEXT } from "../../src/lib/smsConsent";
 
 type Env = {
   SENDGRID_API_KEY?: string;
@@ -302,6 +303,9 @@ async function postWebhooks(lead: Record<string, string>): Promise<string> {
     message: lead.description || "", lead_source: lead.lead_source,
     attribution: lead.attribution || "", sms_consent: lead.sms_consent === "yes",
     website: brand.domain, form: "free-estimate", submitted_at: new Date().toISOString(),
+    // Heath 2026-10-28: the exact wording beside the box, and the page address
+    // the form was submitted from.
+    sms_consent_text: SMS_CONSENT_TEXT, page_url: lead.page_url || "",
   };
   const results = await Promise.all(LEAD_WEBHOOKS.map((url) =>
     fetch(url, {
@@ -389,6 +393,7 @@ export const onRequestPost: PagesFunction<Env> = async ({ request, env }) => {
     // classification the DNI number swap uses, so leads attribute like calls.
     lead_source: clean(data.lead_source, 40) || "default",
     sms_consent: data.sms_consent === "yes" ? "yes" : "",
+    page_url: clean(data.page_url, 500),
     attribution: [
       data.utm_source && `utm_source=${clean(data.utm_source, 80)}`,
       data.utm_medium && `utm_medium=${clean(data.utm_medium, 80)}`,
