@@ -10,9 +10,11 @@
     "Flooring",
     "Install Drywall",
     "Install Tile Work",
-    "Remodeler"
+    "Remodeler",
+    "Repair Drywall"
   ],
   "new-construction": [
+    "Foundation Pouring",
     "Home Construction"
   ],
   "painting-trim": [
