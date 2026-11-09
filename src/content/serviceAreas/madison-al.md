@@ -1,16 +1,16 @@
 ---
 archetype: "service-area"
-title: "Serving All of Madison, AL | Davis Construction Contractors"
-h1: "Serving All of Madison"
-meta_description: "Davis Construction Contractors is based in Madison, AL. See the parts of Madison we cover and every service we offer here. Call (256) 771-0326."
-primary_keyword: "madison service area"
-secondary_keywords: ["madison neighborhoods we serve"]
+title: "Contractor in Madison, AL | Davis Construction Contractors"
+h1: "Your Contractor in Madison, AL"
+meta_description: "Davis Construction Contractors is a family-owned contractor based in Madison, AL since 2008. See the Madison areas we cover and our services. Call (256) 771-0326."
+primary_keyword: "contractor madison al"
+secondary_keywords: ["madison service area", "davis construction madison"]
 search_intent: "local_commercial"
 priority: 7.2
 plan_hash: "2890920a3c9a417a"
 generated_at: "2026-10-02T19:29:45.040055+00:00"
-manual_override: false
-internal_links: ["/service-areas/", "/contact/", "/service-areas/arab-al/", "/service-areas/ardmore-al/", "/service-areas/athens-al/"]
+manual_override: true
+internal_links: ["/service-areas/", "/contact/", "/service-areas/arab-al/", "/service-areas/ardmore-al/", "/service-areas/athens-al/", "/service-areas/huntsville-al/", "/service-areas/harvest-al/", "/service-areas/mooresville-al/", "/service-areas/triana-al/"]
 breadcrumb: [{"name": "Home", "url": "/"}, {"name": "Service Areas", "url": "/service-areas/"}, {"name": "Madison"}]
 faq: [{"question": "How quickly can you reach homes in Liberty Park or Blue Springs?", "answer": "We're based in Madison and route most calls through Research Park Boulevard or the County Line Road corridor, which gives us direct access to both areas. We don't quote exact arrival minutes, but call during business hours, Monday through Friday 8 AM to 5 PM, and we'll give you a realistic timeframe based on the day's schedule."}, {"question": "What restoration services does Davis Construction Contractors offer in Madison?", "answer": "We handle water damage extraction and drying, fire and smoke damage restoration, storm damage repair including roof tarping and board-up, mold remediation, and the reconstruction work that follows any of those losses. Most jobs in Madison end up needing a combination, especially storm damage that leads to secondary water intrusion."}, {"question": "Does Madison's HOA structure affect how repairs get done?", "answer": "In newer subdivisions near Redstone Village and Bradford Creek, HOA architectural guidelines often govern exterior materials, colors, and roofing specs, so we factor those into repair planning alongside city permitting. Older neighborhoods like Old Town Madison typically have fewer HOA restrictions but may have their own code considerations tied to the home's age."}, {"question": "Can you work directly with my insurance company or property manager?", "answer": "Yes, we document the damage with photos and detailed scope notes that carriers and property managers typically require, and we can communicate directly with your adjuster during the claims process. This is common for both single-family homeowners and property managers handling rentals near Madison Hospital or other parts of the city."}, {"question": "Why does Madison see so much storm and water damage compared to older, more established areas?", "answer": "Madison's rapid growth means a lot of newer construction sits on soil and drainage systems that are still settling, while older homes from the 1970s and 80s are reaching the age where roofing, plumbing, and crawlspace ventilation start to fail. Combine that with regular spring hail and wind events and hot, humid summers, and you get a steady mix of storm damage and slow-developing moisture problems."}]
 area_slug: "madison-al"
