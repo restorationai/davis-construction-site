@@ -36,9 +36,9 @@ export const workPairs: BeforeAfterPair[] = [
   },
   {
     label: "Construction & Rebuild",
-    beforeSrc: "https://storage.googleapis.com/msgsndr/SoaJxwp6MUc7dIBOnzdi/media/693d97eeab25946ca9b33c36.png",
+    beforeSrc: "/images/before-after/construction-before.png",
     beforeAlt: "Damaged structure before Davis Construction general contracting rebuild project",
-    afterSrc: "https://storage.googleapis.com/msgsndr/SoaJxwp6MUc7dIBOnzdi/media/693d97eeb4f4202a2efedc02.png",
+    afterSrc: "/images/before-after/construction-after.png",
     afterAlt: "Completed construction and rebuild showing finished quality craftsmanship by Davis Construction Contractors",
   },
   // Restoration pairs below
